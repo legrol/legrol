@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🧑‍🎓 42 Common Core Student
+
+## Common Core Projects
+
+<table>
+  <tr>
+    <th>Cursus</th>   
+  </tr>
+  <tr>
+    <td><a href="https://github.com/legrol/42Cursus">Cursus</a></td>   
+  </tr>
+</table>
