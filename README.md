@@ -26,9 +26,9 @@
     <td><a href="https://github.com/legrol/05.Exam_RK2">Exam_RK2</a></td>
     <td><a href="https://github.com/legrol/06.Push_Swap">Push_Swap</a></td>
     <td><a href="https://github.com/legrol/07.Minitalk">Minitalk</a></td>
-    <td><a href="https://github.com/legrol/>08.FdF">FdF</a></td>
-    <td><a href="https://github.com/legrol/>09.Exam_RK3">Exam_RK3</a></td>
-    <td><a href="https://github.com/legrol/>10.Minishell">Minishell</a></td>
-    <td><a href="https://github.com/legrol/>11.Philosophers">Philosophers</a></td>    
+    <td><a href="https://github.com/legrol/08.FdF">FdF</a></td>
+    <td><a href="https://github.com/legrol/09.Exam_RK3">Exam_RK3</a></td>
+    <td><a href="https://github.com/legrol/10.Minishell">Minishell</a></td>
+    <td><a href="https://github.com/legrol/11.Philosophers">Philosophers</a></td>    
   </tr>
 </table>
