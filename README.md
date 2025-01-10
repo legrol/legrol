@@ -1,6 +1,6 @@
 ## Hola!!! Soy Roberto, te doy la bienvenida a mi espacio... 👋
 
-🔗 [LinkedIn](www.linkedin.com/in/roberto-del-olmo-731746245)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-del-olmo-731746245)
 
 # 🧑‍🎓 42 Common Core Student
 
