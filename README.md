@@ -1,6 +1,10 @@
-## Hola! Bienvenido a mi espacio... 👋
+## Hola!!! Soy Roberto, te doy la bienvenida a mi espacio... 👋
+
+🔗 [LinkedIn](www.linkedin.com/in/roberto-del-olmo-731746245)
 
 # 🧑‍🎓 42 Common Core Student
+
+[![rdel-olm's 42 stats](https://badge.mediaplus.ma/landscapes/rdel-olm?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Common Core Projects
 
