@@ -65,37 +65,37 @@
 <head>
   <meta charset="UTF-8">
   <title>Tabla de Proyectos</title>
+  <!-- ESTE STYLE DEBE IR DENTRO del <head>, NUNCA en el body -->
   <style>
-    /* Estilos generales de la tabla */
-    table {
-      border-collapse: collapse;
+    /* Aplico un selector por clase para no interferir con nada más */
+    table.proyectos {
       width: 100%;
+      border-collapse: collapse;
     }
-    /* Cabecera: fila con clase header-row */
-    tr.header-row th {
+    /* Todos los <th> de la primera fila */
+    table.proyectos th {
       background-color: #2A403D !important;
       color: white;
       text-align: center;
       padding: 8px;
     }
-    /* Fila de datos (segunda fila) sin cambios de fondo */
-    tr.header-row + tr td {
+    /* Resto de celdas, sin fondo */
+    table.proyectos td {
       padding: 8px;
     }
-    /* Enlaces dentro de las celdas de datos */
-    tr.header-row + tr td a {
-      text-decoration: none;
+    table.proyectos td a {
       color: #0066cc;
+      text-decoration: none;
     }
-    tr.header-row + tr td a:hover {
+    table.proyectos td a:hover {
       text-decoration: underline;
     }
   </style>
 </head>
 <body>
-  <table>
-    <!-- Primera fila, la cabecera -->
-    <tr class="header-row">
+  <table class="proyectos">
+    <!-- Primera fila: cabecera con <th> -->
+    <tr>
       <th>01.Libft</th>
       <th>02.Born2beroot</th>
       <th>03.Printf</th>
@@ -106,7 +106,7 @@
       <th>10.Minishell</th>
       <th>11.Philosophers</th>
     </tr>
-    <!-- Segunda fila, datos -->
+    <!-- Segunda fila: datos -->
     <tr>
       <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
       <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
