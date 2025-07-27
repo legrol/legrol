@@ -22,7 +22,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=green"
     alt="Most Used Languages"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
@@ -31,33 +31,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol
-      &layout=compact
-      &theme=dark
-      &bg_color=1e4235
-      &title_color=ffffff
-      &text_color=ffffff
-      &border_color=1e4235"
-    alt="Most Used Languages" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=legrol
-      &show_icons=true
-      &theme=dark
-      &bg_color=1e4235
-      &title_color=ffffff
-      &text_color=ffffff
-      &border_color=1e4235"
-    alt="GitHub Stats" />
-</p>
-
 
 ## Common Core Projects
 
