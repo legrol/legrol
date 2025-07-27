@@ -22,11 +22,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=gruvbox"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=vue-dark"
     alt="Most Used Languages"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=moltack"
+    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=nightowl"
     alt="GitHub Stats"/>
 </p>
 
