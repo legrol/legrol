@@ -9,16 +9,7 @@
 ---
 
 ## 📊 My Statistics
-<div style="display: flex; align-items: center; justify-content: center; gap: 150px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
-    alt="Top Languages" />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark"
-    alt="GitHub Stats" />
-</div>
-
-  
+ 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
