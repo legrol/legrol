@@ -66,58 +66,58 @@
   <meta charset="UTF-8">
   <title>Tabla de Proyectos</title>
   <style>
+    /* Estilos generales de la tabla */
     table {
       border-collapse: collapse;
       width: 100%;
     }
-    thead tr {
-      background-color: blue;
-    }
-    thead th {
+    /* Cabecera: fila con clase header-row */
+    tr.header-row th {
+      background-color: #2A403D !important;
       color: white;
       text-align: center;
       padding: 8px;
     }
-    tbody td {
+    /* Fila de datos (segunda fila) sin cambios de fondo */
+    tr.header-row + tr td {
       padding: 8px;
     }
-    tbody td a {
+    /* Enlaces dentro de las celdas de datos */
+    tr.header-row + tr td a {
       text-decoration: none;
       color: #0066cc;
     }
-    tbody td a:hover {
+    tr.header-row + tr td a:hover {
       text-decoration: underline;
     }
   </style>
 </head>
 <body>
   <table>
-    <thead>
-      <tr>
-        <th>01.Libft</th>
-        <th>02.Born2beroot</th>
-        <th>03.Printf</th>
-        <th>04.GNL</th>
-        <th>06.Push_Swap</th>
-        <th>07.Minitalk</th>
-        <th>08.FdF</th>
-        <th>10.Minishell</th>
-        <th>11.Philosophers</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
-        <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
-        <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
-        <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
-        <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
-        <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
-        <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
-        <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
-        <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
-      </tr>
-    </tbody>
+    <!-- Primera fila, la cabecera -->
+    <tr class="header-row">
+      <th>01.Libft</th>
+      <th>02.Born2beroot</th>
+      <th>03.Printf</th>
+      <th>04.GNL</th>
+      <th>06.Push_Swap</th>
+      <th>07.Minitalk</th>
+      <th>08.FdF</th>
+      <th>10.Minishell</th>
+      <th>11.Philosophers</th>
+    </tr>
+    <!-- Segunda fila, datos -->
+    <tr>
+      <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
+      <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
+      <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
+      <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
+      <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
+      <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
+      <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
+      <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
+      <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
+    </tr>
   </table>
 </body>
 </html>
