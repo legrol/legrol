@@ -19,21 +19,15 @@
 </div>
 
   
-<table border="0" cellpadding="10" cellspacing="0"
-       style="border:none; border-collapse: collapse;">
-  <tr>
-    <td style="border:none; padding:0 10px 0 0;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
-        alt="Top Languages" />
-    </td>
-    <td style="border:none; padding:0 0 0 10px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark"
-        alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
+    alt="Most Used Languages"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark"
+    alt="GitHub Stats"/>
+</p>
 
 
 
