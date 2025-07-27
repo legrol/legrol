@@ -35,30 +35,30 @@
 ## Common Core Projects
 
 <table>
-  <tr>
-    <th>01.Libft</th>
-    <th>02.Born2beroot</th>
-    <th>03.Printf</th>
-    <th>04.GNL</th>
-    <th>05.Exam_RK2</th>
-    <th>06.Push_Swap</th>
-    <th>07.Minitalk</th>
-    <th>08.FdF</th>
-    <th>09.Exam_RK3</th>
-    <th>10.Minishell</th>
-    <th>11.Philosophers</th>
+  <tr style="background-color:#1e4235;">
+    <th style="color:#ffffff; padding:5px;">01.Libft</th>
+    <th style="color:#ffffff; padding:5px;">02.Born2beroot</th>
+    <th style="color:#ffffff; padding:5px;">03.Printf</th>
+    <th style="color:#ffffff; padding:5px;">04.GNL</th>
+    <th style="color:#ffffff; padding:5px;">05.Exam_RK2</th>
+    <th style="color:#ffffff; padding:5px;">06.Push_Swap</th>
+    <th style="color:#ffffff; padding:5px;">07.Minitalk</th>
+    <th style="color:#ffffff; padding:5px;">08.FdF</th>
+    <th style="color:#ffffff; padding:5px;">09.Exam_RK3</th>
+    <th style="color:#ffffff; padding:5px;">10.Minishell</th>
+    <th style="color:#ffffff; padding:5px;">11.Philosophers</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/legrol/01.libft">Libft</a></td>
-    <td><a href="https://github.com/legrol/">Born2beroot</a></td>
-    <td><a href="https://github.com/legrol/03.Printf">Printf</a></td>
-    <td><a href="https://github.com/legrol/04.GNL">GNL</a></td>
-    <td><a href="https://github.com/legrol/05.Exam_RK2">Exam_RK2</a></td>
-    <td><a href="https://github.com/legrol/06.Push_Swap">Push_Swap</a></td>
-    <td><a href="https://github.com/legrol/07.Minitalk">Minitalk</a></td>
-    <td><a href="https://github.com/legrol/08.FdF">FdF</a></td>
-    <td><a href="https://github.com/legrol/09.Exam_RK3">Exam_RK3</a></td>
-    <td><a href="https://github.com/legrol/10.Minishell">Minishell</a></td>
-    <td><a href="https://github.com/legrol/11.Philosophers">Philosophers</a></td>    
+    <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
+    <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
+    <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
+    <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
+    <td><a href="https://github.com/legrol/05-exam_rk2">Exam_RK2</a></td>
+    <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
+    <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
+    <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
+    <td><a href="https://github.com/legrol/09-exam_rk3">Exam_RK3</a></td>
+    <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
+    <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
   </tr>
 </table>
