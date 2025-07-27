@@ -61,13 +61,13 @@
     <td><a href="https://github.com/legrol/07.minitalk">Minitalk</a></td>
     <td><a href="https://github.com/legrol/08.fdf">FdF</a></td>
     <td><a href="https://github.com/legrol/10.minishell">Minishell</a></td>
-    <td><a href="https://github.com/legrol/xxx">Philosophers</a></td>
-    <td><a href="https://github.com/legrol/xxxx">NetPractice</a></td>
-    <td><a href="https://github.com/legrol/xxxx">cub3d</a></td>
-    <td><a href="https://github.com/legrol/xxxx">CPP</a></td>
-    <td><a href="https://github.com/legrol/xxxx">Inception</a></td>
-    <td><a href="https://github.com/legrol/xxxx">webserv</a></td>
-    <td><a href="https://github.com/legrol/xxxx">Transcendence</a></td>
+    <td><a href="https://github.com/legrol/11.Philosophers">Philosophers</a></td>
+    <td><a href="https://github.com/legrol/12.Netpractice">NetPractice</a></td>
+    <td><a href="https://github.com/legrol/14.Cub3d">cub3d</a></td>
+    <td><a href="https://github.com/legrol/15.Cpp">CPP</a></td>
+    <td><a href="https://github.com/legrol/16.Inception">Inception</a></td>
+    <td><a href="https://github.com/legrol/17.Webserv">webserv</a></td>
+    <td><a href="https://github.com/legrol/18.Transcendence">Transcendence</a></td>
   </tr>
 </table>
 
