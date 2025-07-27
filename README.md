@@ -61,16 +61,16 @@
 
 #### testeo
 <table>
-  <tr>
-    <th bgcolor="blue" align="center">01.Libft</th>
-    <th bgcolor="blue" align="center">02.Born2beroot</th>
-    <th bgcolor="blue" align="center">03.Printf</th>
-    <th bgcolor="blue" align="center">04.GNL</th>
-    <th bgcolor="blue" align="center">06.Push_Swap</th>
-    <th bgcolor="blue" align="center">07.Minitalk</th>
-    <th bgcolor="blue" align="center">08.FdF</th>
-    <th bgcolor="blue" align="center">10.Minishell</th>
-    <th bgcolor="blue" align="center">11.Philosophers</th>
+  <tr style="background-color: blue; text-align: center;">
+    <th>01.Libft</th>
+    <th>02.Born2beroot</th>
+    <th>03.Printf</th>
+    <th>04.GNL</th>
+    <th>06.Push_Swap</th>
+    <th>07.Minitalk</th>
+    <th>08.FdF</th>
+    <th>10.Minishell</th>
+    <th>11.Philosophers</th>
   </tr>
   <tr>
     <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
