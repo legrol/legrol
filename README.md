@@ -40,11 +40,9 @@
     <th style="color:#ffffff; padding:5px;">02.Born2beroot</th>
     <th style="color:#ffffff; padding:5px;">03.Printf</th>
     <th style="color:#ffffff; padding:5px;">04.GNL</th>
-    <th style="color:#ffffff; padding:5px;">05.Exam_RK2</th>
     <th style="color:#ffffff; padding:5px;">06.Push_Swap</th>
     <th style="color:#ffffff; padding:5px;">07.Minitalk</th>
     <th style="color:#ffffff; padding:5px;">08.FdF</th>
-    <th style="color:#ffffff; padding:5px;">09.Exam_RK3</th>
     <th style="color:#ffffff; padding:5px;">10.Minishell</th>
     <th style="color:#ffffff; padding:5px;">11.Philosophers</th>
   </tr>
@@ -53,12 +51,27 @@
     <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
     <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
     <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
-    <td><a href="https://github.com/legrol/05-exam_rk2">Exam_RK2</a></td>
     <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
     <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
     <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
-    <td><a href="https://github.com/legrol/09-exam_rk3">Exam_RK3</a></td>
     <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
     <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
+  </tr>
+</table>
+
+## Common Core Exams
+
+<table>
+  <tr style="background-color:#2A403D;">
+    <th style="color:#ffffff; padding:5px;">02.Exam_RK2</th>   
+    <th style="color:#ffffff; padding:5px;">03.Exam_RK3</th>
+    <th style="color:#ffffff; padding:5px;">04.Exam_RK4</th>
+    <th style="color:#ffffff; padding:5px;">05.Exam_RK5</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/legrol/05-exam_rk2">Exam_RK2</a></td>
+    <td><a href="https://github.com/legrol/09-exam_rk3">Exam_RK3</a></td>
+    <td><a href="https://github.com/legrol/xxx">Exam_RK4</a></td>
+    <td><a href="https://github.com/legrol/yyy">Exam_RK5</a></td>
   </tr>
 </table>
