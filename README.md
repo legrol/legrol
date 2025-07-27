@@ -43,14 +43,7 @@
     <th bgcolor="#2A403D" align="center">05.Push_Swap</th>
     <th bgcolor="#2A403D" align="center">06.Minitalk</th>
     <th bgcolor="#2A403D" align="center">07.FdF</th>
-    <th bgcolor="#2A403D" align="center">08.Minishell</th>
-    <th bgcolor="#2A403D" align="center">09.Philosophers</th>
-    <th bgcolor="#2A403D" align="center">10.NetPractice</th>
-    <th bgcolor="#2A403D" align="center">11.Cub3d</th>
-    <th bgcolor="#2A403D" align="center">12.CPP</th>
-    <th bgcolor="#2A403D" align="center">13.Inception</th>
-    <th bgcolor="#2A403D" align="center">14.webserv</th>
-    <th bgcolor="#2A403D" align="center">15.Transcendence</th>
+    <th bgcolor="#2A403D" align="center">08.Minishell</th>   
   </tr>
   <tr>
     <td><a href="https://github.com/legrol/01.libft">Libft</a></td>
@@ -61,13 +54,6 @@
     <td><a href="https://github.com/legrol/07.minitalk">Minitalk</a></td>
     <td><a href="https://github.com/legrol/08.fdf">FdF</a></td>
     <td><a href="https://github.com/legrol/10.minishell">Minishell</a></td>
-    <td><a href="https://github.com/legrol/11.Philosophers">Philosophers</a></td>
-    <td><a href="https://github.com/legrol/12.Netpractice">NetPractice</a></td>
-    <td><a href="https://github.com/legrol/14.Cub3d">cub3d</a></td>
-    <td><a href="https://github.com/legrol/15.Cpp">CPP</a></td>
-    <td><a href="https://github.com/legrol/16.Inception">Inception</a></td>
-    <td><a href="https://github.com/legrol/17.Webserv">webserv</a></td>
-    <td><a href="https://github.com/legrol/18.Transcendence">Transcendence</a></td>
   </tr>
 </table>
 
