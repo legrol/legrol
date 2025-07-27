@@ -4,8 +4,6 @@
 
 # 🧑‍🎓 42 Common Core Student
 
-[![rdel-olm's 42 stats](https://badge.mediaplus.ma/landscapes/rdel-olm?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 ---
 
 <!-- Aquí centramos el badge de 42 -->
