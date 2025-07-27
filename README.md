@@ -34,53 +34,30 @@
 
 ### 📚 Common Core Projects
 
-<p align="center">
-  <a href="https://github.com/legrol/01-libft">
-    <img
-      src="https://img.shields.io/badge/01.Libft–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="01.Libft"/>
-  </a>
-  <a href="https://github.com/legrol/02-born2beroot">
-    <img
-      src="https://img.shields.io/badge/02.Born2beroot–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="02.Born2beroot"/>
-  </a>
-  <a href="https://github.com/legrol/03-printf">
-    <img
-      src="https://img.shields.io/badge/03.Printf–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="03.Printf"/>
-  </a>
-  <a href="https://github.com/legrol/04-gnl">
-    <img
-      src="https://img.shields.io/badge/04.GNL–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="04.GNL"/>
-  </a>
-  <a href="https://github.com/legrol/06-push_swap">
-    <img
-      src="https://img.shields.io/badge/06.Push_Swap–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="06.Push_Swap"/>
-  </a>
-  <a href="https://github.com/legrol/07-minitalk">
-    <img
-      src="https://img.shields.io/badge/07.Minitalk–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="07.Minitalk"/>
-  </a>
-  <a href="https://github.com/legrol/08-fdf">
-    <img
-      src="https://img.shields.io/badge/08.FdF–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="08.FdF"/>
-  </a>
-  <a href="https://github.com/legrol/10-minishell">
-    <img
-      src="https://img.shields.io/badge/10.Minishell–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="10.Minishell"/>
-  </a>
-  <a href="https://github.com/legrol/11-philosophers">
-    <img
-      src="https://img.shields.io/badge/11.Philosophers–?style=for-the-badge&color=2A403D&logoColor=ffffff"
-      alt="11.Philosophers"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.Libft</th>
+    <th bgcolor="#2A403D" align="center">02.Born2beroot</th>
+    <th bgcolor="#2A403D" align="center">03.Printf</th>
+    <th bgcolor="#2A403D" align="center">04.GNL</th>
+    <th bgcolor="#2A403D" align="center">06.Push_Swap</th>
+    <th bgcolor="#2A403D" align="center">07.Minitalk</th>
+    <th bgcolor="#2A403D" align="center">08.FdF</th>
+    <th bgcolor="#2A403D" align="center">10.Minishell</th>
+    <th bgcolor="#2A403D" align="center">11.Philosophers</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
+    <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
+    <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
+    <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
+    <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
+    <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
+    <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
+    <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
+    <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
+  </tr>
+</table>
 
 #### 🎯 Common Core Exams
 
