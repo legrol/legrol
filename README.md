@@ -59,6 +59,33 @@
   </tr>
 </table>
 
+#### testeo
+<table>
+  <tr>
+    <th bgcolor="blue" align="center">01.Libft</th>
+    <th bgcolor="blue" align="center">02.Born2beroot</th>
+    <th bgcolor="blue" align="center">03.Printf</th>
+    <th bgcolor="blue" align="center">04.GNL</th>
+    <th bgcolor="blue" align="center">06.Push_Swap</th>
+    <th bgcolor="blue" align="center">07.Minitalk</th>
+    <th bgcolor="blue" align="center">08.FdF</th>
+    <th bgcolor="blue" align="center">10.Minishell</th>
+    <th bgcolor="blue" align="center">11.Philosophers</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
+    <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
+    <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
+    <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
+    <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
+    <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
+    <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
+    <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
+    <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
+  </tr>
+</table>
+
+
 #### 🎯 Common Core Exams
 
 <table>
