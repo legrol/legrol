@@ -26,7 +26,7 @@
     alt="Most Used Languages"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=vue-dark"
+    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=moltack"
     alt="GitHub Stats"/>
 </p>
 
