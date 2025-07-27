@@ -35,16 +35,16 @@
 ### 📚 Common Core Projects
 
 <table>
-  <tr style="background-color:#2A403D;">
-    <th style="color:#ffffff; padding:5px;">01.Libft</th>
-    <th style="color:#ffffff; padding:5px;">02.Born2beroot</th>
-    <th style="color:#ffffff; padding:5px;">03.Printf</th>
-    <th style="color:#ffffff; padding:5px;">04.GNL</th>
-    <th style="color:#ffffff; padding:5px;">06.Push_Swap</th>
-    <th style="color:#ffffff; padding:5px;">07.Minitalk</th>
-    <th style="color:#ffffff; padding:5px;">08.FdF</th>
-    <th style="color:#ffffff; padding:5px;">10.Minishell</th>
-    <th style="color:#ffffff; padding:5px;">11.Philosophers</th>
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.Libft</th>
+    <th bgcolor="#2A403D" align="center">02.Born2beroot</th>
+    <th bgcolor="#2A403D" align="center">03.Printf</th>
+    <th bgcolor="#2A403D" align="center">04.GNL</th>
+    <th bgcolor="#2A403D" align="center">06.Push_Swap</th>
+    <th bgcolor="#2A403D" align="center">07.Minitalk</th>
+    <th bgcolor="#2A403D" align="center">08.FdF</th>
+    <th bgcolor="#2A403D" align="center">10.Minishell</th>
+    <th bgcolor="#2A403D" align="center">11.Philosophers</th>
   </tr>
   <tr>
     <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
