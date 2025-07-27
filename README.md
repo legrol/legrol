@@ -6,7 +6,6 @@
 
 ---
 
-<!-- Aquí centramos el badge de 42 -->
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img
@@ -29,7 +28,7 @@
     alt="GitHub Stats"/>
 </p>
 
-
+---
 
 ## Common Core Projects
 
