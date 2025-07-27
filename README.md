@@ -1,10 +1,28 @@
-## Hola!!! Soy Roberto, te doy la bienvenida a mi espacio... 👋
+## Hello!!! I'm Roberto, welcome to my space... 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-del-olmo-731746245)
 
 # 🧑‍🎓 42 Common Core Student
 
 [![rdel-olm's 42 stats](https://badge.mediaplus.ma/landscapes/rdel-olm?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+
+# ¡Hola! 👋 ************************************
+
+<!-- 42 Network Card -->
+![42 Network Card](https://github-readme-42-network.vercel.app/api/profile?user=rdel-olm&theme=dark)
+
+---
+
+## 📊 Mis estadísticas
+
+<!-- GitHub Stats -->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdel-olm&show_icons=true&theme=dark)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdel-olm&layout=compact&theme=dark)
+
+#**********************************************
 
 ## Common Core Projects
 
