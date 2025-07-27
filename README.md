@@ -71,6 +71,28 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th bgcolor="#2A403D" align="center">09.Philosophers</th>
+    <th bgcolor="#2A403D" align="center">10.NetPractice</th>
+    <th bgcolor="#2A403D" align="center">11.Cub3d</th>
+    <th bgcolor="#2A403D" align="center">12.CPP</th>
+    <th bgcolor="#2A403D" align="center">13.Inception</th>
+    <th bgcolor="#2A403D" align="center">14.webserv</th>
+    <th bgcolor="#2A403D" align="center">15.Transcendence</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/legrol/11.Philosophers">Philosophers</a></td>
+    <td><a href="https://github.com/legrol/12.Netpractice">NetPractice</a></td>
+    <td><a href="https://github.com/legrol/14.Cub3d">cub3d</a></td>
+    <td><a href="https://github.com/legrol/15.Cpp">CPP</a></td>
+    <td><a href="https://github.com/legrol/16.Inception">Inception</a></td>
+    <td><a href="https://github.com/legrol/17.Webserv">webserv</a></td>
+    <td><a href="https://github.com/legrol/18.Transcendence">Transcendence</a></td>
+  </tr>
+</table>
+
+
 #### 🎯 Common Core Exams
 
 <table>
