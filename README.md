@@ -7,14 +7,14 @@
 [![rdel-olm's 42 stats](https://badge.mediaplus.ma/landscapes/rdel-olm?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
-# ¡Hola! 👋 ************************************
+# ************************************
 
 ---
 
 ## 📊 Mis estadísticas
 
 <!-- GitHub Stats -->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdel-olm&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legrol&layout=compact&theme=dark)
