@@ -9,9 +9,6 @@
 
 # ¡Hola! 👋 ************************************
 
-<!-- 42 Network Card -->
-![42 Network Card](https://github-readme-42-network.vercel.app/api/profile?user=rdel-olm&theme=dark)
-
 ---
 
 ## 📊 Mis estadísticas
@@ -21,6 +18,7 @@
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdel-olm&layout=compact&theme=dark)
+
 
 #**********************************************
 
