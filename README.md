@@ -36,26 +36,38 @@
 
 <table>
   <tr>
-    <th  align="center">01.Libft</th>
+    <th bgcolor="#2A403D" align="center">01.Libft</th>
     <th bgcolor="#2A403D" align="center">02.Born2beroot</th>
     <th bgcolor="#2A403D" align="center">03.Printf</th>
     <th bgcolor="#2A403D" align="center">04.GNL</th>
-    <th bgcolor="#2A403D" align="center">06.Push_Swap</th>
-    <th bgcolor="#2A403D" align="center">07.Minitalk</th>
-    <th bgcolor="#2A403D" align="center">08.FdF</th>
-    <th bgcolor="#2A403D" align="center">10.Minishell</th>
-    <th bgcolor="#2A403D" align="center">11.Philosophers</th>
+    <th bgcolor="#2A403D" align="center">05.Push_Swap</th>
+    <th bgcolor="#2A403D" align="center">06.Minitalk</th>
+    <th bgcolor="#2A403D" align="center">07.FdF</th>
+    <th bgcolor="#2A403D" align="center">08.Minishell</th>
+    <th bgcolor="#2A403D" align="center">09.Philosophers</th>
+    <th bgcolor="#2A403D" align="center">10.NetPractice</th>
+    <th bgcolor="#2A403D" align="center">11.Cub3d</th>
+    <th bgcolor="#2A403D" align="center">12.CPP</th>
+    <th bgcolor="#2A403D" align="center">13.Inception</th>
+    <th bgcolor="#2A403D" align="center">14.webserv</th>
+    <th bgcolor="#2A403D" align="center">15.Transcendence</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
-    <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
-    <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
-    <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
-    <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
-    <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
-    <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
-    <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
-    <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
+    <td><a href="https://github.com/legrol/01.libft">Libft</a></td>
+    <td><a href="https://github.com/legrol/02.born2beroot">Born2beroot</a></td>
+    <td><a href="https://github.com/legrol/03.printf">Printf</a></td>
+    <td><a href="https://github.com/legrol/04.gnl">GNL</a></td>
+    <td><a href="https://github.com/legrol/06.push_swap">Push_Swap</a></td>
+    <td><a href="https://github.com/legrol/07.minitalk">Minitalk</a></td>
+    <td><a href="https://github.com/legrol/08.fdf">FdF</a></td>
+    <td><a href="https://github.com/legrol/10.minishell">Minishell</a></td>
+    <td><a href="https://github.com/legrol/xxx">Philosophers</a></td>
+    <td><a href="https://github.com/legrol/xxxx">NetPractice</a></td>
+    <td><a href="https://github.com/legrol/xxxx">cub3d</a></td>
+    <td><a href="https://github.com/legrol/xxxx">CPP</a></td>
+    <td><a href="https://github.com/legrol/xxxx">Inception</a></td>
+    <td><a href="https://github.com/legrol/xxxx">webserv</a></td>
+    <td><a href="https://github.com/legrol/xxxx">Transcendence</a></td>
   </tr>
 </table>
 
@@ -71,7 +83,7 @@
   <tr>
     <td><a href="https://github.com/legrol/05-exam_rk2">Exam_RK2</a></td>
     <td><a href="https://github.com/legrol/09-exam_rk3">Exam_RK3</a></td>
-    <td><a href="https://github.com/legrol/xxx">Exam_RK4</a></td>
-    <td><a href="https://github.com/legrol/yyy">Exam_RK5</a></td>
+    <td><a href="https://github.com/legrol/xxxx">Exam_RK4</a></td>
+    <td><a href="https://github.com/legrol/xxxx">Exam_RK5</a></td>
   </tr>
 </table>
