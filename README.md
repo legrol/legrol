@@ -18,6 +18,17 @@
     alt="GitHub Stats" />
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
+    alt="Top Languages"
+    style="margin-right: 20px; /* espacio a la derecha */" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+    style="margin-left: 20px; /* espacio a la izquierda */" />
+</div>
+
 
 ## Common Core Projects
 
