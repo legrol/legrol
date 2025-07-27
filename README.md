@@ -74,7 +74,7 @@
     <td><a href="https://github.com/legrol/15.Cpp">CPP</a></td>
     <td><a href="https://github.com/legrol/16.Inception">Inception</a></td>
     <td><a href="https://github.com/legrol/17.Webserv">webserv</a></td>
-    <td><a href="https://github.com/legrol/18.Transcendence">Transcendence</a></td>
+    <td><a href="https://github.com/legrol/19.Transcendence">Transcendence</a></td>
   </tr>
 </table>
 
@@ -87,11 +87,13 @@
     <th style="color:#ffffff; padding:5px;">03.Exam_RK3</th>
     <th style="color:#ffffff; padding:5px;">04.Exam_RK4</th>
     <th style="color:#ffffff; padding:5px;">05.Exam_RK5</th>
+    <th style="color:#ffffff; padding:5px;">06.Exam_RK6</th>
   </tr>
   <tr>
     <td><a href="https://github.com/legrol/05.Exam_RK2">Exam_RK2</a></td>
     <td><a href="https://github.com/legrol/09.Exam_RK3">Exam_RK3</a></td>
     <td><a href="https://github.com/legrol/13.Exam_RK4">Exam_RK4</a></td>
-    <td><a href="https://github.com/legrol/xxxx">Exam_RK5</a></td>
+    <td><a href="https://github.com/legrol/18.Exam_RK5">Exam_RK5</a></td>
+    <td><a href="https://github.com/legrol/20.Exam_RK5">Exam_RK6</a></td>
   </tr>
 </table>
