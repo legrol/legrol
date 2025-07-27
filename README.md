@@ -16,40 +16,13 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legrol&layout=compact&theme=dark)
 
-<table>
-  <tr>
-    <td>
-
-    <!-- GitHub Stats -->
-    ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark)
-
-    </td>
-    <td>
-
-    <!-- Top Languages -->
-    ![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark)
-
-    </td>
-  </tr>
-</table>
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark" alt="GitHub Stats" />  
 </div>
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark"
-           alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark"
-           alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
 
 ## Common Core Projects
 
