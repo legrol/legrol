@@ -33,29 +33,29 @@
 ---
 
 <p align="center">
-  <!-- Most Used Languages (fondo verde) -->
+  <!-- Most Used Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol
       &layout=compact
       &theme=dark
-      &bg_color=1E4235
+      &bg_color=1e4235
       &title_color=ffffff
       &text_color=ffffff
-      &border_color=1E4235"
-    alt="Most Used Languages"/>
+      &border_color=1e4235"
+    alt="Most Used Languages" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub Stats (fondo verde) -->
+  <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=legrol
       &show_icons=true
       &theme=dark
-      &bg_color=1E4235
+      &bg_color=1e4235
       &title_color=ffffff
       &text_color=ffffff
-      &border_color=1E4235"
-    alt="GitHub Stats"/>
+      &border_color=1e4235"
+    alt="GitHub Stats" />
 </p>
 
 
