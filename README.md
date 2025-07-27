@@ -16,6 +16,22 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legrol&layout=compact&theme=dark)
 
+<table>
+  <tr>
+    <td>
+
+    <!-- GitHub Stats -->
+    ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark)
+
+    </td>
+    <td>
+
+    <!-- Top Languages -->
+    ![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark)
+
+    </td>
+  </tr>
+</table>
 
 ## Common Core Projects
 
