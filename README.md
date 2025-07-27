@@ -94,6 +94,6 @@
     <td><a href="https://github.com/legrol/09.Exam_RK3">Exam_RK3</a></td>
     <td><a href="https://github.com/legrol/13.Exam_RK4">Exam_RK4</a></td>
     <td><a href="https://github.com/legrol/18.Exam_RK5">Exam_RK5</a></td>
-    <td><a href="https://github.com/legrol/20.Exam_RK5">Exam_RK6</a></td>
+    <td><a href="https://github.com/legrol/20.Exam_RK6">Exam_RK6</a></td>
   </tr>
 </table>
