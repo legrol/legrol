@@ -35,8 +35,8 @@
 ## Common Core Projects
 
 <table>
-  <tr style="background-color:#1e4235;">
-    <th style="color:#2A403D; padding:5px;">01.Libft</th>
+  <tr style="background-color:#2A403D;">
+    <th style="color:#ffffff; padding:5px;">01.Libft</th>
     <th style="color:#ffffff; padding:5px;">02.Born2beroot</th>
     <th style="color:#ffffff; padding:5px;">03.Printf</th>
     <th style="color:#ffffff; padding:5px;">04.GNL</th>
