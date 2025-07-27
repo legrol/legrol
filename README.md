@@ -22,7 +22,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=green"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=blue"
     alt="Most Used Languages"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
