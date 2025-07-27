@@ -6,9 +6,6 @@
 
 [![rdel-olm's 42 stats](https://badge.mediaplus.ma/landscapes/rdel-olm?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-
-# ************************************
-
 ---
 
 ## 📊 Mis estadísticas
@@ -18,7 +15,6 @@
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legrol&layout=compact&theme=dark)
-
 
 #**********************************************
 
