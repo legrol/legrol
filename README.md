@@ -8,6 +8,17 @@
 
 ---
 
+<!-- Aquí centramos el badge de 42 -->
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img
+      src="https://badge.mediaplus.ma/landscapes/rdel-olm?1337Badge=off&UM6P=off"
+      alt="rdel-olm's 42 stats" />
+  </a>
+</p>
+
+---
+
 ## 📊 My Statistics
  
 <p align="center">
