@@ -32,7 +32,7 @@
 
 ---
 
-### 📚 Common Core Projects
+## 📚 Common Core Projects
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
 </table>
 
 
-#### 🎯 Common Core Exams
+## 🎯 Common Core Exams
 
 <table>
   <tr style="background-color:#2A403D;">
