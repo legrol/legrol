@@ -10,19 +10,10 @@
 
 ## 📊 Mis estadísticas
 
-<!-- GitHub Stats -->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legrol&layout=compact&theme=dark)
-
-
 <div style="display: flex; align-items: center; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=dark" alt="GitHub Stats" />  
 </div>
-
-
 
 ## Common Core Projects
 
