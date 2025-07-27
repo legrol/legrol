@@ -17,7 +17,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdel-olm&show_icons=true&theme=dark)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdel-olm&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=legrol&layout=compact&theme=dark)
 
 
 #**********************************************
