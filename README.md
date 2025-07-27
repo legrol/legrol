@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <th bgcolor="#2A403D" align="center">01.Libft</th>
+    <th  align="center">01.Libft</th>
     <th bgcolor="#2A403D" align="center">02.Born2beroot</th>
     <th bgcolor="#2A403D" align="center">03.Printf</th>
     <th bgcolor="#2A403D" align="center">04.GNL</th>
@@ -60,67 +60,6 @@
 </table>
 
 #### testeo
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Tabla de Proyectos</title>
-  <!-- ESTE STYLE DEBE IR DENTRO del <head>, NUNCA en el body -->
-  <style>
-    /* Aplico un selector por clase para no interferir con nada más */
-    table.proyectos {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    /* Todos los <th> de la primera fila */
-    table.proyectos th {
-      background-color: #2A403D !important;
-      color: white;
-      text-align: center;
-      padding: 8px;
-    }
-    /* Resto de celdas, sin fondo */
-    table.proyectos td {
-      padding: 8px;
-    }
-    table.proyectos td a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    table.proyectos td a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <table class="proyectos">
-    <!-- Primera fila: cabecera con <th> -->
-    <tr>
-      <th>01.Libft</th>
-      <th>02.Born2beroot</th>
-      <th>03.Printf</th>
-      <th>04.GNL</th>
-      <th>06.Push_Swap</th>
-      <th>07.Minitalk</th>
-      <th>08.FdF</th>
-      <th>10.Minishell</th>
-      <th>11.Philosophers</th>
-    </tr>
-    <!-- Segunda fila: datos -->
-    <tr>
-      <td><a href="https://github.com/legrol/01-libft">Libft</a></td>
-      <td><a href="https://github.com/legrol/02-born2beroot">Born2beroot</a></td>
-      <td><a href="https://github.com/legrol/03-printf">Printf</a></td>
-      <td><a href="https://github.com/legrol/04-gnl">GNL</a></td>
-      <td><a href="https://github.com/legrol/06-push_swap">Push_Swap</a></td>
-      <td><a href="https://github.com/legrol/07-minitalk">Minitalk</a></td>
-      <td><a href="https://github.com/legrol/08-fdf">FdF</a></td>
-      <td><a href="https://github.com/legrol/10-minishell">Minishell</a></td>
-      <td><a href="https://github.com/legrol/11-philosophers">Philosophers</a></td>
-    </tr>
-  </table>
-</body>
-</html>
 
 
 
