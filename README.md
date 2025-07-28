@@ -49,7 +49,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.libft">
         <img
-          src="https://img.shields.io/badge/Libft-orange?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/Libft-yellow?style=flat-square&logo=github"
           alt="Libft;"
         />
       </a>
