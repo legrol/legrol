@@ -57,24 +57,24 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.born2beroot">
         <img
-          src="https://img.shields.io/badge/B2BR-%23FFA500?style=flat-square&logo=github"
-          alt="B2BR #FFA500"
+          src="https://img.shields.io/badge/B2BR-%23FCC662?style=flat-square&logo=github"
+          alt="B2BR #FCC662"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/03.printf">
         <img
-          src="https://img.shields.io/badge/Printf-%23FF8C00?style=flat-square&logo=github"
-          alt="Printf #FF8C00"
+          src="https://img.shields.io/badge/Printf-%23FCB735?style=flat-square&logo=github"
+          alt="Printf #FCB735"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/04.gnl">
         <img
-          src="https://img.shields.io/badge/GNL-%23FF4500?style=flat-square&logo=github"
-          alt="GNL #FF4500"
+          src="https://img.shields.io/badge/GNL-%23FFA500?style=flat-square&logo=github"
+          alt="GNL #FFA500"
         />
       </a>
     </td>
