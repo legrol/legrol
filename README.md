@@ -58,7 +58,7 @@
       <a href="https://github.com/legrol/02.born2beroot">
         <img
           src="https://img.shields.io/badge/B2BR-orange?style=flat-square&logo=github"
-          alt="B2BR" style="vertical-align:middle;"
+          alt="B2BR" align="center" style="vertical-align:middle;"
         />
       </a>
     </td>
