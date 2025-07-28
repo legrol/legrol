@@ -105,8 +105,8 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/10.minishell">
         <img
-          src="https://img.shields.io/badge/Minishell-orange?style=flat-square&logo=github"
-          alt="Minishell;"
+          src="https://img.shields.io/badge/Minishell-%23A7BFFA?style=flat-square&logo=github"
+          alt="Minishell #A7BFFA"
         />
       </a>
     </td>
