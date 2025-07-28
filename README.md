@@ -104,7 +104,7 @@
 
 | Examen  | Enlace                                                                                       |
 |:-------:|:--------------------------------------------------------------------------------------------:|
-| RK2     | [![1](https://img.shields.io/badge/Exam_RK2-green?style=flat-square&logo=github)](https://github.com/legrol/05.Exam_RK2) |
+| RK2     | [![](https://img.shields.io/badge/Exam_RK2-green?style=flat-square&logo=github)](https://github.com/legrol/05.Exam_RK2) |
 | RK3     | [![03.RK3](https://img.shields.io/badge/03.RK3-Descargar-orange?style=flat-square&logo=github)](https://github.com/legrol/09.Exam_RK3) |
 | RK4     | [![04.RK4](https://img.shields.io/badge/04.RK4-Descargar-blue?style=flat-square&logo=github)](https://github.com/tuUsuario/tuRepo/path/Exam_RK4) |
 
