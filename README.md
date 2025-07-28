@@ -57,8 +57,8 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.born2beroot">
         <img
-          src="https://img.shields.io/badge/B2BR-%23FCC662?style=flat-square&logo=github"
-          alt="B2BR #FCC662"
+          src="https://img.shields.io/badge/B2BR-%23FCB735?style=flat-square&logo=github"
+          alt="B2BR #FCB735"
         />
       </a>
     </td>
@@ -73,8 +73,8 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/04.gnl">
         <img
-          src="https://img.shields.io/badge/GNL-%23FFA500?style=flat-square&logo=github"
-          alt="GNL #FFA500"
+          src="https://img.shields.io/badge/GNL-%23FCB735?style=flat-square&logo=github"
+          alt="GNL #FCB735"
         />
       </a>
     </td>
