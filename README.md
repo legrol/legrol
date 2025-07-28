@@ -97,7 +97,14 @@
     <td><a href="https://github.com/legrol/20.Exam_RK6">Exam_RK6</a></td>
   </tr>
   <tr>
-    <td><a>[![](https://img.shields.io/badge/Exam_RK2-green?style=flat-square&logo=github)](https://github.com/legrol/05.Exam_RK2)</a></td>
+    <td>
+      <a href="https://github.com/legrol/05.Exam_RK2">
+        <img
+          src="https://img.shields.io/badge/Exam_RK2-green?style=flat-square&logo=github"
+          alt="Exam RK2" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
     <td><a href="https://github.com/legrol/09.Exam_RK3">Exam_RK3</a></td>
     <td><a href="https://github.com/legrol/13.Exam_RK4">Exam_RK4</a></td>
     <td><a href="https://github.com/legrol/18.Exam_RK5">Exam_RK5</a></td>
