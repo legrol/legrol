@@ -46,7 +46,14 @@
     <th bgcolor="#2A403D" align="center">08.Minishell</th>   
   </tr>
   <tr>
-    <td><a href="https://github.com/legrol/01.libft">Libft</a></td>
+    <td>
+      <a href="https://github.com/legrol/01.libft">
+        <img
+          src="https://img.shields.io/badge/Libft-orange?style=flat-square&logo=github"
+          alt="Libft" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
     <td><a href="https://github.com/legrol/02.born2beroot">Born2beroot</a></td>
     <td><a href="https://github.com/legrol/03.printf">Printf</a></td>
     <td><a href="https://github.com/legrol/04.gnl">GNL</a></td>
