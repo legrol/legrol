@@ -137,11 +137,10 @@
 | :------------------: |
 | ![Common Core Exams](https://img.shields.io/badge/Common%20Core%20Exams-Índice-blue?style=for-the-badge) |
 | ![](https://img.shields.io/badge/Índice-blue?style=for-the-badge) |
-![Índice](https://img.shields.io/badge/Índice-blue?style=for-the-badge)
 
 
 | Examen  | Enlace                                                                                       |
 |:-------:|:--------------------------------------------------------------------------------------------:|
-| RK3     | [![03.RK3](https://img.shields.io/badge/03.RK3-Descargar-orange?style=flat-square&logo=github)](https://github.com/legrol/09.Exam_RK3) |
+| RK3     | [![03.RK3](https://img.shields.io/badge/03.RK3-Descargar-orange?style=flat-square&logo=github)]|
 | RK4     | [![04.RK4](https://img.shields.io/badge/04.RK4-Descargar-blue?style=flat-square&logo=github)](https://github.com/tuUsuario/tuRepo/path/Exam_RK4) |
 
