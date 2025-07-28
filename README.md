@@ -96,4 +96,15 @@
     <td><a href="https://github.com/legrol/18.Exam_RK5">Exam_RK5</a></td>
     <td><a href="https://github.com/legrol/20.Exam_RK6">Exam_RK6</a></td>
   </tr>
-</table>
+ </table>
+
+ | 🎯 Common Core Exams |
+| :------------------: |
+| ![Common Core Exams](https://img.shields.io/badge/Common%20Core%20Exams-Índice-blue?style=for-the-badge) |
+
+| Examen  | Enlace                                                                                       |
+|:-------:|:--------------------------------------------------------------------------------------------:|
+| RK2     | [![02.RK2](https://img.shields.io/badge/02.RK2-Descargar-green?style=flat-square&logo=github)](https://github.com/tuUsuario/tuRepo/path/Exam_RK2) |
+| RK3     | [![03.RK3](https://img.shields.io/badge/03.RK3-Descargar-orange?style=flat-square&logo=github)](https://github.com/tuUsuario/tuRepo/path/Exam_RK3) |
+| RK4     | [![04.RK4](https://img.shields.io/badge/04.RK4-Descargar-blue?style=flat-square&logo=github)](https://github.com/tuUsuario/tuRepo/path/Exam_RK4) |
+
