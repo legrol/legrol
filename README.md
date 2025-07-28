@@ -54,10 +54,38 @@
         />
       </a>
     </td>
-    <td><a href="https://github.com/legrol/02.born2beroot">Born2beroot</a></td>
-    <td><a href="https://github.com/legrol/03.printf">Printf</a></td>
-    <td><a href="https://github.com/legrol/04.gnl">GNL</a></td>
-    <td><a href="https://github.com/legrol/06.push_swap">Push_Swap</a></td>
+    <td>
+      <a href="https://github.com/legrol/02.born2beroot">
+        <img
+          src="https://img.shields.io/badge/B2BR-orange?style=flat-square&logo=github"
+          alt="B2BR" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/03.printf">
+        <img
+          src="https://img.shields.io/badge/Printf-orange?style=flat-square&logo=github"
+          alt="Printft" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/04.gnl">
+        <img
+          src="https://img.shields.io/badge/GNL-orange?style=flat-square&logo=github"
+          alt="GNL" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/06.push_swap">
+        <img
+          src="https://img.shields.io/badge/Push_Swap-orange?style=flat-square&logo=github"
+          alt="Push_Swap" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
     <td><a href="https://github.com/legrol/07.minitalk">Minitalk</a></td>
     <td><a href="https://github.com/legrol/08.fdf">FdF</a></td>
     <td><a href="https://github.com/legrol/10.minishell">Minishell</a></td>
