@@ -36,7 +36,9 @@
 
 <table>
   <tr>
-    <th bgcolor="#2A403D" align="center">01.Libft</th>
+    <td bgcolor="#007ec6" align="center">
+      <font color="#ffffff" face="Arial, sans-serif" size="2">ÍNDICE</font>
+    </td>  
     <th bgcolor="#2A403D" align="center">02.Born2beroot</th>
     <th bgcolor="#2A403D" align="center">03.Printf</th>
     <th bgcolor="#2A403D" align="center">04.GNL</th>
