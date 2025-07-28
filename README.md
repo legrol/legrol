@@ -124,13 +124,62 @@
     <th bgcolor="#2A403D" align="center">15.Transcendence</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/legrol/11.Philosophers">Philosophers</a></td>
-    <td><a href="https://github.com/legrol/12.Netpractice">NetPractice</a></td>
-    <td><a href="https://github.com/legrol/14.Cub3d">cub3d</a></td>
-    <td><a href="https://github.com/legrol/15.Cpp">CPP</a></td>
-    <td><a href="https://github.com/legrol/16.Inception">Inception</a></td>
-    <td><a href="https://github.com/legrol/17.Webserv">webserv</a></td>
-    <td><a href="https://github.com/legrol/19.Transcendence">Transcendence</a></td>
+    <td>
+      <a href="https://github.com/legrol/11.Philosophers">
+        <img
+          src="https://img.shields.io/badge/Philosophers-orange?style=flat-square&logo=github"
+          alt="Philosophers" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/12.Netpractice">
+        <img
+          src="https://img.shields.io/badge/Netpractice-orange?style=flat-square&logo=github"
+          alt="Netpractice" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/14.Cub3d">
+        <img
+          src="https://img.shields.io/badge/Cub3d-orange?style=flat-square&logo=github"
+          alt="Cub3d" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/15.Cpp">
+        <img
+          src="https://img.shields.io/badge/Cpp-orange?style=flat-square&logo=github"
+          alt="Cpp" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/16.Inception">
+        <img
+          src="https://img.shields.io/badge/Inceptionl-orange?style=flat-square&logo=github"
+          alt="Inception" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/17.Webserv">
+        <img
+          src="https://img.shields.io/badge/Webserv-orange?style=flat-square&logo=github"
+          alt="Webserv" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/19.Transcendence">
+        <img
+          src="https://img.shields.io/badge/Transcendence-orange?style=flat-square&logo=github"
+          alt="Transcendence" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
   </tr>
 </table>
 
