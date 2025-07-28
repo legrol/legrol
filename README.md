@@ -136,7 +136,8 @@
  | 🎯 Common Core Exams |
 | :------------------: |
 | ![Common Core Exams](https://img.shields.io/badge/Common%20Core%20Exams-Índice-blue?style=for-the-badge) |
-| ![](https://img.shields.io/badge/Índice-blue?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Índice-blue?style=for-the-badge) | 
+| (https://img.shields.io/badge/Índice-blue?style=for-the-badge |
 
 
 | Examen  | Enlace                                                                                       |
