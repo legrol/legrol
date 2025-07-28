@@ -175,8 +175,8 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/19.Transcendence">
         <img
-          src="https://img.shields.io/badge/Transcendence-orange?style=flat-square&logo=github"
-          alt="Transcendence;"
+          src="https://img.shields.io/badge/Transcendence-%23FC0318?style=flat-square&logo=github"
+          alt="Transcendence #FC0318"
         />
       </a>
     </td>
