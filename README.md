@@ -159,16 +159,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/16.Inception">
         <img
-          src="https://img.shields.io/badge/Inceptionl-orange?style=flat-square&logo=github"
-          alt="Inception;"
+          src="https://img.shields.io/badge/Inception-%23FC4EAF?style=flat-square&logo=github"
+          alt="Inception #FC4EAF"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/17.Webserv">
         <img
-          src="https://img.shields.io/badge/Webserv-orange?style=flat-square&logo=github"
-          alt="Webserv;"
+          src="https://img.shields.io/badge/Webserv-%23FC4EAF?style=flat-square&logo=github"
+          alt="Webserv #FC4EAF"
         />
       </a>
     </td>
