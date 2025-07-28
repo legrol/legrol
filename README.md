@@ -81,7 +81,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/06.push_swap">
         <img
-          src="https://img.shields.io/badge/GNL-%238DFCF6?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/Push_Swap-%238DFCF6?style=flat-square&logo=github"
           alt="Push_Swap #8DFCF6"
         />
       </a>
@@ -89,7 +89,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/07.minitalk">
         <img
-          src="https://img.shields.io/badge/GNL-%234CFCF2?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/Minitalk-%234CFCF2?style=flat-square&logo=github"
           alt="Minitalk #4CFCF2"
         />
       </a>
@@ -97,7 +97,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/08.fdf">
         <img
-          src="https://img.shields.io/badge/GNL-%2300FFF0?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/Fdf-%2300FFF0?style=flat-square&logo=github"
           alt="Fdf #00FFF0"
         />
       </a>
