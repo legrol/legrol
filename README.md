@@ -54,7 +54,6 @@
         />
       </a>
     </td>
-    <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.born2beroot">
         <img
