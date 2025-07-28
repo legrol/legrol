@@ -237,6 +237,3 @@
     </td>    
   </tr>
  </table>
-
-
-| ![](https://img.shields.io/badge/Índice-blue?style=for-the-badge) | 
