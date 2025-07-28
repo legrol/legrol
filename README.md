@@ -54,27 +54,28 @@
         />
       </a>
     </td>
+    <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.born2beroot">
         <img
-          src="https://img.shields.io/badge/B2BR-orange?style=flat-square&logo=github"
-          alt="B2BR;"
+          src="https://img.shields.io/badge/B2BR-%23FFA500?style=flat-square&logo=github"
+          alt="B2BR #FFA500"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/03.printf">
         <img
-          src="https://img.shields.io/badge/Printf-orange?style=flat-square&logo=github"
-          alt="Printf;"
+          src="https://img.shields.io/badge/Printf-%23FF8C00?style=flat-square&logo=github"
+          alt="Printf #FF8C00"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/04.gnl">
         <img
-          src="https://img.shields.io/badge/GNL-orange?style=flat-square&logo=github"
-          alt="GNL;"
+          src="https://img.shields.io/badge/GNL-%23FF4500?style=flat-square&logo=github"
+          alt="GNL #FF4500"
         />
       </a>
     </td>
