@@ -127,32 +127,32 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/11.Philosophers">
         <img
-          src="https://img.shields.io/badge/Philosophers-orange?style=flat-square&logo=github"
-          alt="Philosophers;"
+          src="https://img.shields.io/badge/Philosophers-%23A7BFFA?style=flat-square&logo=github"
+          alt="Philosophers #A7BFFA"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/12.Netpractice">
         <img
-          src="https://img.shields.io/badge/Netpractice-orange?style=flat-square&logo=github"
-          alt="Netpractice;"
+          src="https://img.shields.io/badge/Netpractice-%23CFAEFC?style=flat-square&logo=github"
+          alt="Netpractice #CFAEFC"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/14.Cub3d">
         <img
-          src="https://img.shields.io/badge/Cub3d-orange?style=flat-square&logo=github"
-          alt="Cub3d;"
+          src="https://img.shields.io/badge/Cub3d-%23CFAEFC?style=flat-square&logo=github"
+          alt="Cub3d #CFAEFC"
         />
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/15.Cpp">
         <img
-          src="https://img.shields.io/badge/Cpp-orange?style=flat-square&logo=github"
-          alt="Cpp;"
+          src="https://img.shields.io/badge/Cpp-%23CFAEFC?style=flat-square&logo=github"
+          alt="Cpp #CFAEFC"
         />
       </a>
     </td>
