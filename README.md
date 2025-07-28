@@ -46,11 +46,11 @@
     <th bgcolor="#2A403D" align="center">08.Minishell</th>   
   </tr>
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.libft">
         <img
           src="https://img.shields.io/badge/Libft-orange?style=flat-square&logo=github"
-          alt="Libft" style="vertical-align:middle;"
+          alt="Libft;"
         />
       </a>
     </td>
@@ -62,51 +62,51 @@
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/03.printf">
         <img
           src="https://img.shields.io/badge/Printf-orange?style=flat-square&logo=github"
-          alt="Printft" style="vertical-align:middle;"
+          alt="Printf;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/04.gnl">
         <img
           src="https://img.shields.io/badge/GNL-orange?style=flat-square&logo=github"
-          alt="GNL" style="vertical-align:middle;"
+          alt="GNL;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/06.push_swap">
         <img
           src="https://img.shields.io/badge/Push_Swap-orange?style=flat-square&logo=github"
-          alt="Push_Swap" style="vertical-align:middle;"
+          alt="Push_Swap;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/07.minitalk">
         <img
           src="https://img.shields.io/badge/Minitalk-orange?style=flat-square&logo=github"
-          alt="Minitalk" style="vertical-align:middle;"
+          alt="Minitalk;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/08.fdf">
         <img
           src="https://img.shields.io/badge/Fdf-orange?style=flat-square&logo=github"
-          alt="Fdf" style="vertical-align:middle;"
+          alt="Fdf;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/10.minishell">
         <img
           src="https://img.shields.io/badge/Minishell-orange?style=flat-square&logo=github"
-          alt="Minishell" style="vertical-align:middle;"
+          alt="Minishell;"
         />
       </a>
     </td>
@@ -124,59 +124,59 @@
     <th bgcolor="#2A403D" align="center">15.Transcendence</th>
   </tr>
   <tr>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/11.Philosophers">
         <img
           src="https://img.shields.io/badge/Philosophers-orange?style=flat-square&logo=github"
-          alt="Philosophers" style="vertical-align:middle;"
+          alt="Philosophers;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/12.Netpractice">
         <img
           src="https://img.shields.io/badge/Netpractice-orange?style=flat-square&logo=github"
-          alt="Netpractice" style="vertical-align:middle;"
+          alt="Netpractice;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/14.Cub3d">
         <img
           src="https://img.shields.io/badge/Cub3d-orange?style=flat-square&logo=github"
-          alt="Cub3d" style="vertical-align:middle;"
+          alt="Cub3d;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/15.Cpp">
         <img
           src="https://img.shields.io/badge/Cpp-orange?style=flat-square&logo=github"
-          alt="Cpp" style="vertical-align:middle;"
+          alt="Cpp;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/16.Inception">
         <img
           src="https://img.shields.io/badge/Inceptionl-orange?style=flat-square&logo=github"
-          alt="Inception" style="vertical-align:middle;"
+          alt="Inception;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/17.Webserv">
         <img
           src="https://img.shields.io/badge/Webserv-orange?style=flat-square&logo=github"
-          alt="Webserv" style="vertical-align:middle;"
+          alt="Webserv;"
         />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <a href="https://github.com/legrol/19.Transcendence">
         <img
           src="https://img.shields.io/badge/Transcendence-orange?style=flat-square&logo=github"
-          alt="Transcendence" style="vertical-align:middle;"
+          alt="Transcendence;"
         />
       </a>
     </td>
