@@ -86,9 +86,30 @@
         />
       </a>
     </td>
-    <td><a href="https://github.com/legrol/07.minitalk">Minitalk</a></td>
-    <td><a href="https://github.com/legrol/08.fdf">FdF</a></td>
-    <td><a href="https://github.com/legrol/10.minishell">Minishell</a></td>
+    <td>
+      <a href="https://github.com/legrol/07.minitalk">
+        <img
+          src="https://img.shields.io/badge/Minitalk-orange?style=flat-square&logo=github"
+          alt="Minitalk" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/08.fdf">
+        <img
+          src="https://img.shields.io/badge/Fdf-orange?style=flat-square&logo=github"
+          alt="Fdf" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/10.minishell">
+        <img
+          src="https://img.shields.io/badge/Minishell-orange?style=flat-square&logo=github"
+          alt="Minishell" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
   </tr>
 </table>
 
