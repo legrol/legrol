@@ -105,6 +105,38 @@
         />
       </a>
     </td>
+    <td>
+      <a href="https://github.com/legrol/05.Exam_RK3">
+        <img
+          src="https://img.shields.io/badge/Exam_RK3-green?style=flat-square&logo=github"
+          alt="Exam RK3" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/05.Exam_RK4">
+        <img
+          src="https://img.shields.io/badge/Exam_RK4-green?style=flat-square&logo=github"
+          alt="Exam RK4" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/05.Exam_RK5">
+        <img
+          src="https://img.shields.io/badge/Exam_RK5-green?style=flat-square&logo=github"
+          alt="Exam RK5" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/legrol/05.Exam_RK6">
+        <img
+          src="https://img.shields.io/badge/Exam_RK6-green?style=flat-square&logo=github"
+          alt="Exam RK6" style="vertical-align:middle;"
+        />
+      </a>
+    </td>
     <td><a href="https://github.com/legrol/09.Exam_RK3">Exam_RK3</a></td>
     <td><a href="https://github.com/legrol/13.Exam_RK4">Exam_RK4</a></td>
     <td><a href="https://github.com/legrol/18.Exam_RK5">Exam_RK5</a></td>
