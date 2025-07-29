@@ -273,7 +273,4 @@
 | [**cpp_modules_05–09**](https://github.com/legrol/cpp_modules_05-09) | ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge) ![81.3%](https://img.shields.io/badge/progress-81.3%25-blue?style=for-the-badge) | ![80/100](https://img.shields.io/badge/grade-80%2F100-brightgreen?style=for-the-badge)   | ![last commit february](https://img.shields.io/badge/last_commit-february-orange?style=for-the-badge&colorA=black)    | [README](cpp_modules_05-09/README.md) |
 | [**webserv**](https://github.com/legrol/ft_irc)             | ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge) ![98.6%](https://img.shields.io/badge/progress-98.6%25-blue?style=for-the-badge) | ![100/100](https://img.shields.io/badge/grade-100%2F100-brightgreen?style=for-the-badge)   | ![last commit december 2024](https://img.shields.io/badge/last_commit-december%202024-orange?style=for-the-badge&colorA=black) | [README](ft_irc/README.md)    |
 
-
-| [**ft_trascendence**](https://github.com/tu_usuario/ft_trascendence) | —                      | _In Progress_            | _–_                                                                    | [README](ft_trascendence/README.md) |
-
-
+| **ft_trascendence** | —                      | _In Progress_            |  _–_                                                                   | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/19.Transcendence/blob/main/README.md)    |
