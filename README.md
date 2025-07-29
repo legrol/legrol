@@ -262,12 +262,18 @@
 
 | [**philosophers**](https://github.com/legrol/philosophers) | ![C](https://img.shields.io/badge/language-C-blue?style=for-the-badge) ![88.0%](https://img.shields.io/badge/progress-88.0%25-blue?style=for-the-badge)     | ![100/100](https://img.shields.io/badge/grade-100%2F100-brightgreen?style=for-the-badge)   | ![last commit january](https://img.shields.io/badge/last_commit-january-orange?style=for-the-badge&colorA=black)      | [README](philosophers/README.md) |
 | [**minishell**](https://github.com/legrol/minishell)       | ![C](https://img.shields.io/badge/language-C-blue?style=for-the-badge) ![98.2%](https://img.shields.io/badge/progress-98.2%25-blue?style=for-the-badge)     | ![101/100](https://img.shields.io/badge/grade-101%2F100-brightgreen?style=for-the-badge) | ![last commit january](https://img.shields.io/badge/last_commit-january-orange?style=for-the-badge&colorA=black)      | [README](minishell/README.md) |
+
+
 | [**netpractice**](https://github.com/legrol/netpractice)   | —                      | ![100/100](https://img.shields.io/badge/grade-100%2F100-brightgreen?style=for-the-badge)   | ![last commit june 2024](https://img.shields.io/badge/last_commit-june%202024-orange?style=for-the-badge&colorA=black)   | [README](netpractice/README.md) |
 | [**cpp_modules_00–04**](https://github.com/legrol/cpp_modules_00-04) | ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge) ![83.9%](https://img.shields.io/badge/progress-83.9%25-blue?style=for-the-badge) | ![80/100](https://img.shields.io/badge/grade-80%2F100-brightgreen?style=for-the-badge)   | ![last commit june 2024](https://img.shields.io/badge/last_commit-june%202024-orange?style=for-the-badge&colorA=black)   | [README](cpp_modules_00-04/README.md) |
 | [**cub3d**](https://github.com/legrol/cub3d)               | ![C](https://img.shields.io/badge/language-C-blue?style=for-the-badge) ![89.8%](https://img.shields.io/badge/progress-89.8%25-blue?style=for-the-badge)   | ![100/100](https://img.shields.io/badge/grade-100%2F100-brightgreen?style=for-the-badge)   | ![last commit january](https://img.shields.io/badge/last_commit-january-orange?style=for-the-badge&colorA=black)      | [README](cub3d/README.md)    |
+
+
 | [**inception**](https://github.com/legrol/inception)       | —                      | _In Progress_          | _–_                                                                    | [README](inception/README.md) |
 | [**cpp_modules_05–09**](https://github.com/legrol/cpp_modules_05-09) | ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge) ![81.3%](https://img.shields.io/badge/progress-81.3%25-blue?style=for-the-badge) | ![80/100](https://img.shields.io/badge/grade-80%2F100-brightgreen?style=for-the-badge)   | ![last commit february](https://img.shields.io/badge/last_commit-february-orange?style=for-the-badge&colorA=black)    | [README](cpp_modules_05-09/README.md) |
 | [**webserv**](https://github.com/legrol/ft_irc)             | ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge) ![98.6%](https://img.shields.io/badge/progress-98.6%25-blue?style=for-the-badge) | ![100/100](https://img.shields.io/badge/grade-100%2F100-brightgreen?style=for-the-badge)   | ![last commit december 2024](https://img.shields.io/badge/last_commit-december%202024-orange?style=for-the-badge&colorA=black) | [README](ft_irc/README.md)    |
+
+
 | [**ft_trascendence**](https://github.com/tu_usuario/ft_trascendence) | —                      | _In Progress_            | _–_                                                                    | [README](ft_trascendence/README.md) |
 
 
