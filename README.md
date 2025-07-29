@@ -237,3 +237,10 @@
     </td>    
   </tr>
  </table>
+
+## 📊 Holy Graph 
+
+<p align="center">
+  <img width="849" height="748" alt="imagen" src="https://github.com/user-attachments/assets/16af674d-93f2-4540-a24e-b38ab3db2070" />
+</p>
+
