@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 My Statistics
+## 📊 My GitHub Stats
 
 ---
 
