@@ -324,10 +324,10 @@
 
    
   <!-- Microsoft OneDrive ERROR -->
-  <img src="https://img.icons8.com/material-outlined/48/000000/onedrive.png" alt="OneDrive" height="40"/>
+  <img width="48" height="48" alt="icons8-onedrive-48" src="https://github.com/user-attachments/assets/ab16a6b2-3d85-4a53-8db7-186f3b2e0f8e" />
 
-  <!-- Office 365 -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Office 365" height="40"/>
+  <!-- Office 365 -->  
+  <img width="48" height="48" alt="icons8-microsoft-365-48" src="https://github.com/user-attachments/assets/99135cea-d27a-4e26-9c66-471ff73aea27" />
 
   <!-- Docker -->
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40"/>
