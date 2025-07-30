@@ -286,58 +286,6 @@
   <!-- Bash -->
   <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Bash" height="40"/>
 
-  <!-- C -->  
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
-
-  <!-- C++ -->
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
-  
-  <!-- VSC -->
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
-
-  <!-- GitHub -->
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
-
-  <!-- Java -->
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
-
-  <!-- VBA -->
-    <img width="48" height="48" alt="icons8-visual-basic-48 (1)" src="https://github.com/user-attachments/assets/8fecd1f7-2a44-438e-be73-41a1793261a9" />
-  
-  <!-- Microsoft SharePoint -->  
-    <img width="48" height="48" alt="icons8-sharepoint-48" src="https://github.com/user-attachments/assets/c621049c-9e69-4c2b-ad4b-68c11dcaa268" />
-  
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
-
-  <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
-  <img width="48" height="48" alt="imagen" src="https://github.com/user-attachments/assets/27e495ce-6b7b-42db-82f8-08ade768f8c4" />
-  
-  <!-- Apps Power Microsoft -->
-  <img width="40" height="40" alt="icons8-aplicaciones-power-de-microsoft-40" src="https://github.com/user-attachments/assets/d606e09b-7380-48e0-897a-97f162c1b022" />
-
-  <!-- Microsoft OneDrive -->
-  <img width="48" height="48" alt="icons8-onedrive-48" src="https://github.com/user-attachments/assets/ab16a6b2-3d85-4a53-8db7-186f3b2e0f8e" />
-
-  <!-- Office 365 -->  
-  <img width="48" height="48" alt="icons8-microsoft-365-48" src="https://github.com/user-attachments/assets/99135cea-d27a-4e26-9c66-471ff73aea27" />
-  
-  <!-- Virtualización -->
-  <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
-   
-  <!-- Docker -->
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40"/>
-</p>
-
-## 🚀 Technical Skills 2
-
-<p align="left">
-  <!-- PowerShell -->
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/powershell.png" alt="PowerShell" height="40"/>
-
-  <!-- Bash -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Bash" height="40"/>
-
   <!-- C -->
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
 
