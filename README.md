@@ -32,6 +32,15 @@
 
 ---
 
+<img src="https://via.placeholder.com/600x2/007BFF/007BFF" alt="line" />
+━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━ ✦ ━━
+==============================
+🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦
+
+
+
+
 ## 🚀 Technical Skills
 
 <p align="left">
