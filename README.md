@@ -298,37 +298,33 @@
   <!-- GitHub -->
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
 
-  <!-- VBA -->
-  <img width="48" height="48" alt="icons8-visual-basic-48" src="https://github.com/user-attachments/assets/bcb4cd41-c8aa-4f58-a365-a181b1b2da95" />
-
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
 
+  <!-- VBA -->
+    <img width="48" height="48" alt="icons8-visual-basic-48" src="https://github.com/user-attachments/assets/bcb4cd41-c8aa-4f58-a365-a181b1b2da95" />
+  
+  <!-- Microsoft SharePoint -->  
+    <img width="48" height="48" alt="icons8-microsoft-sharepoint-2019-48 (1)" src="https://github.com/user-attachments/assets/0374980f-f78c-4ccc-99cc-a2c7a151ce5d" />
+  
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
-
 
   <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
   <img width="48" height="48" alt="imagen" src="https://github.com/user-attachments/assets/27e495ce-6b7b-42db-82f8-08ade768f8c4" />
   
-  <!-- Power Query ERROR -->
-  <img width="114" height="115" alt="Power-Query" src="https://github.com/user-attaments/assets/a067fc94-305e-43eb-b75e-401205672924" />
+  <!-- Apps Power Microsoft -->
+  <img width="40" height="40" alt="icons8-aplicaciones-power-de-microsoft-40" src="https://github.com/user-attachments/assets/d606e09b-7380-48e0-897a-97f162c1b022" />
 
-  <!-- Power Pivot ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Power Pivot" height="40"/>
-
-  <!-- Virtualización -->
-  <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
-
-  <!-- Microsoft SharePoint -->  
-  <img width="48" height="48" alt="icons8-microsoft-sharepoint-2019-48 (1)" src="https://github.com/user-attachments/assets/0374980f-f78c-4ccc-99cc-a2c7a151ce5d" />
-   
   <!-- Microsoft OneDrive -->
   <img width="48" height="48" alt="icons8-onedrive-48" src="https://github.com/user-attachments/assets/ab16a6b2-3d85-4a53-8db7-186f3b2e0f8e" />
 
   <!-- Office 365 -->  
   <img width="48" height="48" alt="icons8-microsoft-365-48" src="https://github.com/user-attachments/assets/99135cea-d27a-4e26-9c66-471ff73aea27" />
-
+  
+  <!-- Virtualización -->
+  <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
+   
   <!-- Docker -->
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40"/>
 </p>
