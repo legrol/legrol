@@ -330,17 +330,17 @@
 </p>
 
 <!-- Línea 1: Lenguajes base -->
-💻 **Bash** | **PowerShell** | **C** | **C++** | **HTML** | **CSS**
-<!-- Línea 4: Editores y sistemas operativos -->
-🖥️ **macOS** | **Linux** | **Debian** | **Ubuntu** |**Windows**
-<!-- Línea 2: Control de versiones -->
-🔧 **Git** | **GitHub**
+💻 **Bash** | **PowerShell** | **C** | **C++** | **HTML** | **CSS** | **Java**| **M**
+<!-- Línea 2: Editores y sistemas operativos -->
+🖥️ **Windows** | **Ubuntu** | **Debian** | **Linux** | **macOS**
 <!-- Línea 3: Editores y sistemas operativos -->
 🧠 **Vim** | **Visual Studio Code** 
+<!-- Línea 4: Control de versiones -->
+🔧 **Git** | **GitHub**
 <!-- Línea 5: Virtualización -->
 📦 **Virtualization**: VirtualBox
 <!-- Línea 6: Universo Cloud -->
 ☁️ **O365** | **Power BI** | **Power Query** | **Power Pivot** | **SharePoint** | **OneDrive**
-<!-- Línea 7: Others Cloud -->
-🐳 **Docker** | 🛠️ **Make** | 🧪 **Linter** | 📊 **DAX**
+<!-- Línea 7: DevOps / Otros -->
+🐳 **Docker** | 🛠️ **Make** | 📊 **DAX**
 
