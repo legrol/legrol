@@ -292,9 +292,6 @@
   <!-- C++ -->
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
   
-  <!-- ??? ERROR -->  
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vs-code-a-free-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="Lint/V Lang" height="40"/>
-
   <!-- VSC -->
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
 
@@ -302,7 +299,7 @@
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
 
   <!-- VBA ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/excel-vba.png" alt="VBA" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/excel-vba.png" alt="VBA" height="40"/>
 
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
@@ -311,7 +308,7 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
 
   <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/excel-vba.png" alt="VBA" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/dax.png" alt="VBA" height="40"/>
   
   <!-- Power Query (usamos Excel como representación) ERROR -->
   <img src="https://img.icons8.com/color/48/000000/power-query.png" alt="Power Query" height="40"/>
@@ -322,8 +319,9 @@
   <!-- Virtualización (usamos VirtualBox) -->
   <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
 
-  <!-- Microsoft SharePoint ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/sharepoint.png" alt="SharePoint" height="40"/>
+  <!-- Microsoft SharePoint ERROR -->  
+  <img width="48" height="48" alt="icons8-microsoft-sharepoint-2019-48 (1)" src="https://github.com/user-attachments/assets/0374980f-f78c-4ccc-99cc-a2c7a151ce5d" />
+
    
   <!-- Microsoft OneDrive ERROR -->
   <img src="https://img.icons8.com/material-outlined/48/000000/onedrive.png" alt="OneDrive" height="40"/>
