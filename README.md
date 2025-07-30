@@ -276,3 +276,59 @@
 | **Exam 04** | ![C](https://img.shields.io/static/v1?label=&message=C&color=yellowgreen&style=flat) | ![14/01/2025](https://img.shields.io/static/v1?label=&message=14-01-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 | **Exam 05** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![26/06/2025](https://img.shields.io/static/v1?label=&message=26-06-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 | **Exam 06** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![In Progress](https://img.shields.io/static/v1?label=&message=in%20progress&color=yellow&style=flat)   | ![-/-](https://img.shields.io/static/v1?label=&message=-/-%20&color=red&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
+
+
+## 🎯 Common Core Exam Progress
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Language</th>
+      <th>Finish Date</th>
+      <th>Grade</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Exam 02</strong></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=C&color=yellowgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=18-07-2024&color=yellow&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat"></td>
+    </tr>
+    <tr>
+      <td><strong>Exam 03</strong></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=C&color=yellowgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=27-09-2024&color=yellow&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat"></td>
+    </tr>
+    <tr>
+      <td><strong>Exam 04</strong></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=C&color=yellowgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=14-01-2025&color=yellow&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat"></td>
+    </tr>
+    <tr>
+      <td><strong>Exam 05</strong></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=26-06-2025&color=yellow&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat"></td>
+    </tr>
+    <tr>
+      <td><strong>Exam 06</strong></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=yellow&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=-/-%20&color=red&style=flat"></td>
+      <td><img src="https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat"></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
