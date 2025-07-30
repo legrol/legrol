@@ -245,7 +245,7 @@
 </p>
 
 
-## 🎯 Common Core Progress
+## 🎯 Common Core Project Progress
 
 | Project                                | Language               | Grade                  | Last Commit                                                            | Readme                       |
 |----------------------------------------|------------------------|------------------------|------------------------------------------------------------------------|------------------------------|
@@ -265,3 +265,11 @@
 | **cpp_modules_05–09** | ![C++_86.4%](https://img.shields.io/badge/C++-86.4%25-blue?style=flat) ![Makefile_13.6%](https://img.shields.io/badge/Makefile-13.6%25-blue?style=flat)  | ![100/100](https://img.shields.io/static/v1?label=&message=100%2F100&color=brightgreen&style=flat)   | ![last commit may 2025](https://img.shields.io/static/v1?label=last%20commit&message=may%202025&color=orange&labelColor=000000&style=flat)   | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/15.Cpp/blob/main/README.md)    |
 | **webserv** | ![HTML 40.7%](https://img.shields.io/badge/HTML-40.7%25-blue?style=flat) ![Shell 39.3%](https://img.shields.io/badge/Shell-39.3%25-blue?style=flat) ![C++ 19.37%](https://img.shields.io/badge/C++-19.3%25-blue?style=flat) ![Other 0.7%](https://img.shields.io/badge/Other-0.7%25-blue?style=flat) | ![125/100](https://img.shields.io/static/v1?label=&message=125%2F100&color=brightgreen&style=flat)   | ![last commit july 2025](https://img.shields.io/static/v1?label=last%20commit&message=july%202025&color=orange&labelColor=000000&style=flat)   | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/17.Webserv/blob/main/README.md)    |
 | **ft_trascendence** | —                      | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat)            |  _–_                                                                   | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/19.Transcendence/blob/main/README.md)    |
+
+
+## 🎯 Common Core Exam Progress
+
+| Rank                                | Language               | Finish Date                  | Grade          | Time          |   Readme              |
+|-------------------------------------|------------------------|------------------------------|----------------|---------------|-----------------------|
+| **Exam 02** | ![C%](https://img.shields.io/badge/C%25-blue?style=flat) | ![18/07/2024](https://img.shields.io/static/v1?label=&message=18-07-2024%2F100&color=brightgreen&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100%2F100&color=brightgreen&style=flat)   | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/05.Exam_RK2/blob/main/README.md)    |
+
