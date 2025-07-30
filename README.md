@@ -302,7 +302,7 @@
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
 
   <!-- VBA ERROR -->
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-vba-programming-language-soft-fill-soft-fill-juicy-fish.png" alt="VBA" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/excel-vba.png" alt="VBA" height="40"/>
 
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
@@ -311,10 +311,10 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
 
   <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="DAX / Power BI" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/excel-vba.png" alt="VBA" height="40"/>
   
   <!-- Power Query (usamos Excel como representación) ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Power Query" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-query.png" alt="Power Query" height="40"/>
 
   <!-- Power Pivot (similar al anterior, sin icono específico) ERROR -->
   <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Power Pivot" height="40"/>
@@ -322,11 +322,11 @@
   <!-- Virtualización (usamos VirtualBox) -->
   <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
 
-  <!-- Microsoft SharePoint -->
+  <!-- Microsoft SharePoint ERROR -->
   <img src="https://img.icons8.com/color/48/000000/sharepoint.png" alt="SharePoint" height="40"/>
-
-  <!-- Microsoft OneDrive -->
-  <img src="https://img.icons8.com/color/48/000000/onedrive.png" alt="OneDrive" height="40"/>
+   
+  <!-- Microsoft OneDrive ERROR -->
+  <img src="https://img.icons8.com/material-outlined/48/000000/onedrive.png" alt="OneDrive" height="40"/>
 
   <!-- Office 365 -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Office 365" height="40"/>
