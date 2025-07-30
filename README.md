@@ -302,10 +302,10 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
 
   <!-- VBA -->
-    <img width="48" height="48" alt="icons8-visual-basic-48" src="https://github.com/user-attachments/assets/bcb4cd41-c8aa-4f58-a365-a181b1b2da95" />
+    <img width="48" height="48" alt="icons8-visual-basic-48 (1)" src="https://github.com/user-attachments/assets/8fecd1f7-2a44-438e-be73-41a1793261a9" />
   
   <!-- Microsoft SharePoint -->  
-    <img width="48" height="48" alt="icons8-microsoft-sharepoint-2019-48 (1)" src="https://github.com/user-attachments/assets/0374980f-f78c-4ccc-99cc-a2c7a151ce5d" />
+    <img width="48" height="48" alt="icons8-sharepoint-48" src="https://github.com/user-attachments/assets/c621049c-9e69-4c2b-ad4b-68c11dcaa268" />
   
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
