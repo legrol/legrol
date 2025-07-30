@@ -269,7 +269,7 @@
 
 ## 🎯 Common Core Exam Progress
 
-| Rank                                | Language               | Finish Date                  | Grade          | Time          |   Readme              |
-|-------------------------------------|------------------------|------------------------------|----------------|---------------|-----------------------|
-| **Exam 02** | ![C](https://img.shields.io/badge/C%25-blue?style=flat) | ![18/07/2024](https://img.shields.io/static/v1?label=&message=18-07-2024%2F100&color=brightgreen&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100%2F100&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3_horas%2F100&color=brightgreen&style=flat)   | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/05.Exam_RK2/blob/main/README.md)  |
+| Rank                                | Language               | Finish Date                  | Grade          | Time          |
+|-------------------------------------|------------------------|------------------------------|----------------|---------------|
+| **Exam 02** | ![C](https://img.shields.io/badge/C%25-blue?style=flat) | ![18/07/2024](https://img.shields.io/static/v1?label=&message=18-07-2024%2F100&color=brightgreen&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100%2F100&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3_horas%2F&color=brightgreen&style=flat)   |
 
