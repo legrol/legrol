@@ -276,3 +276,47 @@
 | **Exam 04** | ![C](https://img.shields.io/static/v1?label=&message=C&color=yellowgreen&style=flat) | ![14/01/2025](https://img.shields.io/static/v1?label=&message=14-01-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 | **Exam 05** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![26/06/2025](https://img.shields.io/static/v1?label=&message=26-06-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 | **Exam 06** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![In Progress](https://img.shields.io/static/v1?label=&message=in%20progress&color=yellow&style=flat)   | ![-/-](https://img.shields.io/static/v1?label=&message=-/-%20&color=red&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
+
+## 🚀 Technical Skills
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/powershell.png" alt="PowerShell" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Bash" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vs-code-a-free-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="Lint/V Lang" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
+
+  <!-- C++ -->
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
+
+  <!-- VBA -->
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-vba-programming-language-soft-fill-soft-fill-juicy-fish.png" alt="VBA" height="40"/>
+
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+
+  <!-- DAX (Power BI formula language, no official icon, use Power BI) -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="DAX / Power BI" height="40"/>
+
+  <!-- Power Query (usamos Excel como representación) -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Power Query" height="40"/>
+
+  <!-- Power Pivot (similar al anterior, sin icono específico) -->
+  <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Power Pivot" height="40"/>
+
+  <!-- Virtualización (usamos VirtualBox) -->
+  <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
+
+  <!-- Microsoft SharePoint -->
+  <img src="https://img.icons8.com/color/48/000000/sharepoint.png" alt="SharePoint" height="40"/>
+
+  <!-- Microsoft OneDrive -->
+  <img src="https://img.icons8.com/color/48/000000/onedrive.png" alt="OneDrive" height="40"/>
+
+  <!-- Office 365 -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Office 365" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40"/>
+</p>
