@@ -298,8 +298,8 @@
   <!-- GitHub -->
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
 
-  <!-- VBA ERROR -->
-  <img src="https://img.icons8.com/fluency/48/excel-vba.png" alt="VBA" height="40"/>
+  <!-- VBA -->
+  <img width="48" height="48" alt="icons8-visual-basic-48" src="https://github.com/user-attachments/assets/bcb4cd41-c8aa-4f58-a365-a181b1b2da95" />
 
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
@@ -307,24 +307,23 @@
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
 
+
   <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/dax.png" alt="VBA" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/vdax.png" alt="VBA" height="40"/>
   
-  <!-- Power Query (usamos Excel como representación) ERROR -->
-  <img width="114" height="115" alt="Power-Query" src="https://github.com/user-attachments/assets/a067fc94-305e-43eb-b75e-401205672924" />
+  <!-- Power Query ERROR -->
+  <img width="114" height="115" alt="Power-Query" src="https://github.com/user-attaments/assets/a067fc94-305e-43eb-b75e-401205672924" />
 
-
-  <!-- Power Pivot (similar al anterior, sin icono específico) ERROR -->
+  <!-- Power Pivot ERROR -->
   <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Power Pivot" height="40"/>
 
-  <!-- Virtualización (usamos VirtualBox) -->
+  <!-- Virtualización -->
   <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="Virtualización" height="40"/>
 
-  <!-- Microsoft SharePoint ERROR -->  
+  <!-- Microsoft SharePoint -->  
   <img width="48" height="48" alt="icons8-microsoft-sharepoint-2019-48 (1)" src="https://github.com/user-attachments/assets/0374980f-f78c-4ccc-99cc-a2c7a151ce5d" />
-
    
-  <!-- Microsoft OneDrive ERROR -->
+  <!-- Microsoft OneDrive -->
   <img width="48" height="48" alt="icons8-onedrive-48" src="https://github.com/user-attachments/assets/ab16a6b2-3d85-4a53-8db7-186f3b2e0f8e" />
 
   <!-- Office 365 -->  
