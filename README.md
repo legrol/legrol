@@ -311,7 +311,8 @@
   <img src="https://img.icons8.com/color/48/000000/dax.png" alt="VBA" height="40"/>
   
   <!-- Power Query (usamos Excel como representación) ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/power-query.png" alt="Power Query" height="40"/>
+  <img width="114" height="115" alt="Power-Query" src="https://github.com/user-attachments/assets/a067fc94-305e-43eb-b75e-401205672924" />
+
 
   <!-- Power Pivot (similar al anterior, sin icono específico) ERROR -->
   <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Power Pivot" height="40"/>
