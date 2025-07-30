@@ -292,7 +292,7 @@
   <!-- C++ -->
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
   
-  <!-- ??? -->  
+  <!-- ??? ERROR -->  
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vs-code-a-free-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="Lint/V Lang" height="40"/>
 
   <!-- VSC -->
@@ -301,19 +301,22 @@
   <!-- GitHub -->
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
 
-  <!-- VBA -->
+  <!-- VBA ERROR -->
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-vba-programming-language-soft-fill-soft-fill-juicy-fish.png" alt="VBA" height="40"/>
 
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
 
-  <!-- DAX (Power BI formula language, no official icon, use Power BI) -->
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="DAX / Power BI" height="40"/>
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
 
-  <!-- Power Query (usamos Excel como representación) -->
+  <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="DAX / Power BI" height="40"/>
+  
+  <!-- Power Query (usamos Excel como representación) ERROR -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Power Query" height="40"/>
 
-  <!-- Power Pivot (similar al anterior, sin icono específico) -->
+  <!-- Power Pivot (similar al anterior, sin icono específico) ERROR -->
   <img src="https://img.icons8.com/color/48/000000/pivot-table.png" alt="Power Pivot" height="40"/>
 
   <!-- Virtualización (usamos VirtualBox) -->
