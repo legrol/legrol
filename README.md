@@ -309,7 +309,7 @@
 
 
   <!-- DAX (Power BI formula language, no official icon, use Power BI) ERROR -->
-  <img src="https://img.icons8.com/color/48/000000/vdax.png" alt="VBA" height="40"/>
+  <img width="48" height="48" alt="imagen" src="https://github.com/user-attachments/assets/27e495ce-6b7b-42db-82f8-08ade768f8c4" />
   
   <!-- Power Query ERROR -->
   <img width="114" height="115" alt="Power-Query" src="https://github.com/user-attaments/assets/a067fc94-305e-43eb-b75e-401205672924" />
