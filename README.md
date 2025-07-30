@@ -280,15 +280,26 @@
 ## 🚀 Technical Skills
 
 <p align="left">
+  <!-- PowerShell -->
   <img src="https://img.icons8.com/ios-filled/50/4a90e2/powershell.png" alt="PowerShell" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
+
+  <!-- Bash -->
   <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Bash" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vs-code-a-free-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="Lint/V Lang" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
+
+  <!-- C -->  
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
 
   <!-- C++ -->
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
+  
+  <!-- ??? -->  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-vs-code-a-free-source-code-editor-developed-by-microsoft-logo-shadow-tal-revivo.png" alt="Lint/V Lang" height="40"/>
+
+  <!-- VSC -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
+
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
 
   <!-- VBA -->
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-vba-programming-language-soft-fill-soft-fill-juicy-fish.png" alt="VBA" height="40"/>
