@@ -271,5 +271,5 @@
 
 | Rank                                | Language               | Finish Date                  | Grade          | Time          |
 |-------------------------------------|------------------------|------------------------------|----------------|---------------|
-| **Exam 02** | ![C](https://img.shields.io/static/v1?label=&message=C&color=black&style=flat) | ![18/07/2024](https://img.shields.io/static/v1?label=&message=18-07-2024&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3horas&color=grey&style=flat)   |
+| **Exam 02** | ![C](https://img.shields.io/static/v1?label=&message=C&color=grey&style=flat) | ![18/07/2024](https://img.shields.io/static/v1?label=&message=18-07-2024&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3horas&color=magenta&style=flat)   |
 
