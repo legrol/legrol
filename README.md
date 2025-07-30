@@ -328,3 +328,55 @@
   <!-- Docker -->
   <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40"/>
 </p>
+
+## 🚀 Technical Skills 2
+
+<p align="left">
+  <!-- PowerShell -->
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/powershell.png" alt="PowerShell" height="40"/>
+
+  <!-- Bash -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" alt="Bash" height="40"/>
+
+  <!-- C -->
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/>
+
+  <!-- C++ -->
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>
+
+  <!-- Visual Studio Code -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40"/>
+
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="40"/>
+
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>
+
+  <!-- VBA -->
+  <img src="https://github.com/user-attachments/assets/8fecd1f7-2a44-438e-be73-41a1793261a9" alt="VBA" height="40"/>
+
+  <!-- SharePoint -->
+  <img src="https://github.com/user-attachments/assets/c621049c-9e69-4c2b-ad4b-68c11dcaa268" alt="SharePoint" height="40"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
+
+  <!-- DAX -->
+  <img src="https://github.com/user-attachments/assets/27e495ce-6b7b-42db-82f8-08ade768f8c4" alt="DAX" height="40"/>
+
+  <!-- Microsoft Power Platform -->
+  <img src="https://github.com/user-attachments/assets/d606e09b-7380-48e0-897a-97f162c1b022" alt="Power Apps / Platform" height="40"/>
+
+  <!-- OneDrive -->
+  <img src="https://github.com/user-attachments/assets/ab16a6b2-3d85-4a53-8db7-186f3b2e0f8e" alt="OneDrive" height="40"/>
+
+  <!-- Office 365 -->
+  <img src="https://github.com/user-attachments/assets/99135cea-d27a-4e26-9c66-471ff73aea27" alt="Office 365" height="40"/>
+
+  <!-- VirtualBox -->
+  <img src="https://img.icons8.com/fluency/48/000000/virtualbox.png" alt="VirtualBox" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="Docker" height="40"/>
+</p>
