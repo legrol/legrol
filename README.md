@@ -100,8 +100,6 @@
 🐳 **Docker** | 🛠️ **Make** | 📊 **DAX**
 
 ---
-<img src="https://via.placeholder.com/600x2/007BFF/007BFF" alt="blue-line" />
-
 
 ## 📚 Common Core Projects
 
