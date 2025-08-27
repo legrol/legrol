@@ -313,7 +313,7 @@
 
 <p align="center">
   <img width="849" height="748" alt="Holy Graph" src="https://github.com/user-attachments/assets/16af674d-93f2-4540-a24e-b38ab3db2070" />
-  <img width="754" height="658" alt="Captura" src="https://github.com/user-attachments/assets/d91f7304-a392-47fa-85c9-a9dcf7f1b451" />  
+  <img width="849" height="748" alt="Holy Graph" src="https://github.com/user-attachments/assets/d91f7304-a392-47fa-85c9-a9dcf7f1b451" />  
 </p>
 
 ## 🎯 Common Core Project Progress
