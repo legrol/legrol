@@ -312,7 +312,7 @@
 ## 📊 My Holy Graph 
 
 <p align="center">
-  <img width="849" height="748" alt="Holy Graph" src="https://github.com/user-attachments/assets/d91f7304-a392-47fa-85c9-a9dcf7f1b451" />  
+  <img width="849" height="748" alt="Holy Graph" <img width="788" height="691" alt="HolyGraphFinal" src="https://github.com/user-attachments/assets/e0dde179-4908-44fb-abf2-f0d2ee92e29d" /> 
 </p>
 
 ## 🎯 Common Core Project Progress
