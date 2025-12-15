@@ -364,7 +364,7 @@
   
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/01.libsm">
+      <a href="https://github.com/legrol/01.Libsm">
         <img
           src="xxx"
           alt="Libasm #F2F511"
