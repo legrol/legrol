@@ -346,3 +346,38 @@
 | **Exam 04** | ![C](https://img.shields.io/static/v1?label=&message=C&color=yellowgreen&style=flat) | ![14/01/2025](https://img.shields.io/static/v1?label=&message=14-01-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 | **Exam 05** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![26/06/2025](https://img.shields.io/static/v1?label=&message=26-06-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 | **Exam 06** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![27/08/2025](https://img.shields.io/static/v1?label=&message=27-08-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
+
+
+## 🎯 Outer Core
+
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>System &amp; Kernel</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.Libasm</th>
+    <th bgcolor="#2A403D" align="center">02.xxx</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.libsm">
+        <img
+          src="xxx"
+          alt="Libasm #F2F511"
+        />
+      </a>
+    </td> 
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/022.xxx">
+        <img
+          src="xxx"
+          alt="xxx #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
