@@ -366,15 +366,15 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.Libasm">
         <img
-          src="xxx"
+          src="https://img.shields.io/badge/Libasm-%23F2F511?style=flat-square&logo=github"
           alt="Libasm #F2F511"
         />
       </a>
-    </td> 
+    </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.xxx">
         <img
-          src="xxx"
+          src="https://img.shields.io/badge/xxx-%23FCB735?style=flat-square&logo=github"
           alt="xxx #FCB735"
         />
       </a>
