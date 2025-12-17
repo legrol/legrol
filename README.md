@@ -461,16 +461,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%238DFCF6?style=flat-square&logo=github"
-          alt="xxx #8DFCF6"
+          src="https://img.shields.io/badge/xxx-%23A7BFFA?style=flat-square&logo=github"
+          alt="xxx #A7BFFA"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.yyy">
         <img
-          src="https://img.shields.io/badge/yyy-%238DFCF6?style=flat-square&logo=github"
-          alt="yyy #8DFCF6"
+          src="https://img.shields.io/badge/yyy-%23A7BFFA?style=flat-square&logo=github"
+          alt="yyy #A7BFFA"
         />
       </a>
     </td>
@@ -493,16 +493,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
-          alt="xxx #F2F511"
+          src="https://img.shields.io/badge/xxx-%23CFAEFC?style=flat-square&logo=github"
+          alt="xxx #CFAEFC"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.yyy">
         <img
-          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
-          alt="yyy #FCB735"
+          src="https://img.shields.io/badge/yyy-%23CFAEFC?style=flat-square&logo=github"
+          alt="yyy #CFAEFC"
         />
       </a>
     </td>
@@ -525,16 +525,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.Libasm">
         <img
-          src="https://img.shields.io/badge/Libasm-%23F2F511?style=flat-square&logo=github"
-          alt="Libasm #F2F511"
+          src="https://img.shields.io/badge/Libasm-%23FC4EAF?style=flat-square&logo=github"
+          alt="Libasm #FC4EAF"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%23FCB735?style=flat-square&logo=github"
-          alt="xxx #FCB735"
+          src="https://img.shields.io/badge/xxx-%23FC4EAF?style=flat-square&logo=github"
+          alt="xxx #FC4EAF"
         />
       </a>
     </td>
@@ -557,16 +557,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
-          alt="xxx #F2F511"
+          src="https://img.shields.io/badge/xxx-%23FC0318?style=flat-square&logo=github"
+          alt="xxx #FC0318"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.yyy">
         <img
-          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
-          alt="yyy #FCB735"
+          src="https://img.shields.io/badge/yyy-%23FC0318?style=flat-square&logo=github"
+          alt="yyy #FC0318"
         />
       </a>
     </td>
