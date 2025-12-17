@@ -353,6 +353,165 @@
 <table>
     <tr>
     <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>Algo &amp; AI &amp; Data</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.yyy</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.xxx">
+        <img
+          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
+          alt="xxx #F2F511"
+        />
+      </a>
+    </td>   
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/02.yyy">
+        <img
+          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
+          alt="yyy #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>Criptography &amp; Maths</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.yyy</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.xxx">
+        <img
+          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
+          alt="xxx #F2F511"
+        />
+      </a>
+    </td>   
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/02.yyy">
+        <img
+          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
+          alt="yyy #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>Development</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.yyy</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.xxx">
+        <img
+          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
+          alt="xxx #F2F511"
+        />
+      </a>
+    </td>   
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/02.yyy">
+        <img
+          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
+          alt="yyy #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>Devops</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.yyy</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.xxx">
+        <img
+          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
+          alt="xxx #F2F511"
+        />
+      </a>
+    </td>   
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/02.yyy">
+        <img
+          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
+          alt="yyy #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>Security</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.yyy</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.xxx">
+        <img
+          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
+          alt="xxx #F2F511"
+        />
+      </a>
+    </td>   
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/02.yyy">
+        <img
+          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
+          alt="yyy #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
       <b>System &amp; Kernel</b>
     </td>
   </tr>
@@ -381,3 +540,44 @@
     </td>
   </tr>
 </table>
+
+<table>
+    <tr>
+    <td bgcolor="#2A403D" align="center" colspan="2">
+      <b>Professional Experience</b>
+    </td>
+  </tr>
+  
+  <tr>
+    <th bgcolor="#2A403D" align="center">01.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.yyy</th>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/01.xxx">
+        <img
+          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
+          alt="xxx #F2F511"
+        />
+      </a>
+    </td>   
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/02.yyy">
+        <img
+          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
+          alt="yyy #FCB735"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🎯 Common Core Project Progress
+
+| Project                                | Language               | Grade                  | Last Commit                                                            | Readme                       |
+|----------------------------------------|------------------------|------------------------|------------------------------------------------------------------------|------------------------------|
+| **libasm** | ---  | ![-/100] | ![last commit xxx 2025]   |  ---  |
+
+
+---
