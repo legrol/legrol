@@ -374,8 +374,8 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.yyy">
         <img
-          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
-          alt="yyy #FCB735"
+          src="https://img.shields.io/badge/yyy-%23F2F511?style=flat-square&logo=github"
+          alt="yyy #F2F511"
         />
       </a>
     </td>
@@ -398,8 +398,8 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
-          alt="xxx #F2F511"
+          src="https://img.shields.io/badge/xxx-%23FCB735?style=flat-square&logo=github"
+          alt="xxx #FCB735"
         />
       </a>
     </td>   
@@ -430,16 +430,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
-          alt="xxx #F2F511"
+          src="https://img.shields.io/badge/xxx-%238DFCF6?style=flat-square&logo=github"
+          alt="xxx #8DFCF6"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.yyy">
         <img
-          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
-          alt="yyy #FCB735"
+          src="https://img.shields.io/badge/yyy-%238DFCF6?style=flat-square&logo=github"
+          alt="yyy #8DFCF6"
         />
       </a>
     </td>
@@ -461,16 +461,16 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/01.xxx">
         <img
-          src="https://img.shields.io/badge/xxx-%23F2F511?style=flat-square&logo=github"
-          alt="xxx #F2F511"
+          src="https://img.shields.io/badge/xxx-%238DFCF6?style=flat-square&logo=github"
+          alt="xxx #8DFCF6"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.yyy">
         <img
-          src="https://img.shields.io/badge/yyy-%23FCB735?style=flat-square&logo=github"
-          alt="yyy #FCB735"
+          src="https://img.shields.io/badge/yyy-%238DFCF6?style=flat-square&logo=github"
+          alt="yyy #8DFCF6"
         />
       </a>
     </td>
