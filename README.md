@@ -348,7 +348,7 @@
 | **Exam 06** | ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=yellowgreen&style=flat) | ![27/08/2025](https://img.shields.io/static/v1?label=&message=27-08-2025&color=yellow&style=flat)   | ![100/100](https://img.shields.io/static/v1?label=&message=100/100%20★&color=brightgreen&style=flat)   |  ![3 horas](https://img.shields.io/static/v1?label=&message=3%20horas&color=inactive&style=flat)   |
 
 
-## 🎯 Outer Core
+## 📚 Outer Core Projects
 
 <table>
     <tr>
