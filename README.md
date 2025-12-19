@@ -577,7 +577,7 @@
 
 | Project                                | Language               | Grade                  | Last Commit                                                            | Layer                       |Readme                       |
 |----------------------------------------|------------------------|------------------------|------------------------------------------------------------------------|------------------------------|------------------------------|
-| **libasm** | ---  | --- | ---   |  *System & Kernel*  | ---  |
+| **libasm** | ![Assembly 71.5%](https://img.shields.io/badge/Assembly-71.5%25-blue?style=flat) ![C 21.0%](https://img.shields.io/badge/C-21.0%25-blue?style=flat)  ![Makefile 7.50%](https://img.shields.io/badge/Makefile-7.5%25-blue?style=flat) | --- | ---   |  *System & Kernel*  | ---  |
 
 
 ---
