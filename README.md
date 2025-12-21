@@ -577,7 +577,7 @@
 
 | Project                                | Language               | Grade                  | Last Commit                                                            | Layer                       |Readme                       |
 |----------------------------------------|------------------------|------------------------|------------------------------------------------------------------------|------------------------------|------------------------------|
-| **libasm** | ![Assembly 71.5%](https://img.shields.io/badge/Assembly-71.5%25-blue?style=flat) ![C 20.8%](https://img.shields.io/badge/C-20.8%25-blue?style=flat)  ![Makefile 6.8%](https://img.shields.io/badge/Makefile-6.8%25-blue?style=flat) | --- | ![last commit december 2025](https://img.shields.io/static/v1?label=last%20commit&message=december%202025&color=orange&labelColor=000000&style=flat)   |  *System & Kernel*  | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/01.Libasm/blob/main/README.md)   |
+| **libasm** | ![Assembly 72.4%](https://img.shields.io/badge/Assembly-72.4%25-blue?style=flat) ![C 20.8%](https://img.shields.io/badge/C-20.8%25-blue?style=flat)  ![Makefile 6.8%](https://img.shields.io/badge/Makefile-6.8%25-blue?style=flat) | --- | ![last commit december 2025](https://img.shields.io/static/v1?label=last%20commit&message=december%202025&color=orange&labelColor=000000&style=flat)   |  *System & Kernel*  | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/01.Libasm/blob/main/README.md)   |
 
 
 ---
