@@ -518,7 +518,7 @@
   
   <tr>
     <th bgcolor="#2A403D" align="center">01.Libasm</th>
-    <th bgcolor="#2A403D" align="center">02.xxx</th>
+    <th bgcolor="#2A403D" align="center">02.B</th>
   </tr>
   
   <tr>
@@ -531,9 +531,9 @@
       </a>
     </td>   
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/02.xxx">
+      <a href="https://github.com/legrol/02.B">
         <img
-          src="https://img.shields.io/badge/xxx-%23FC4EAF?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/B-%23FC4EAF?style=flat-square&logo=github"
           alt="xxx #FC4EAF"
         />
       </a>
