@@ -501,7 +501,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.ft_malcom">
         <img
-          src="https://img.shields.io/badge/ft_malcom%23CFAEFC?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/ft_malcom-%23CFAEFC?style=flat-square&logo=github"
           alt="yyy #CFAEFC"
         />
       </a>
