@@ -479,7 +479,7 @@
 
 <table>
     <tr>
-    <td bgcolor="#2A403D" align="center" colspan="2">
+    <td bgcolor="#2A403D" align="center" colspan="3">
       <b>Security</b>
     </td>
   </tr>
