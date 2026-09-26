@@ -1,3 +1,5 @@
+<img width="900" height="754" alt="Captura desde 2026-09-26 20-32-58" src="https://github.com/user-attachments/assets/73bc43c0-cf90-48da-8aeb-456a424ec986" />
+<img width="900" height="754" alt="Captura desde 2026-09-26 20-32-58" src="https://github.com/user-attachments/assets/1af214ff-3976-48c9-98de-575b32947877" />
 ## Hello!!! I'm Roberto, welcome to my space... 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-del-olmo-731746245)
@@ -25,6 +27,21 @@
   &nbsp;&nbsp;&nbsp;
   <img src="./profile/stats.svg" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
+    height="165"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    height="165"
+  />
+</p>
+
 
 ---
 ---
