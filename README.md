@@ -518,17 +518,17 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/04.woody-woodpacker">
+      <a href="https://github.com/legrol/04.woody_woodpacker">
         <img
-          src="https://img.shields.io/badge/woody-woodpacker-%23CFAEFC?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/woody_woodpacker-%23CFAEFC?style=flat-square&logo=github"
           alt="yyy #CFAEFC"
         />
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/05.snow-crash">
+      <a href="https://github.com/legrol/05.snow_crash">
         <img
-          src="https://img.shields.io/badge/snow-crash-%23CFAEFC?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/snow_crash-%23CFAEFC?style=flat-square&logo=github"
           alt="yyy #CFAEFC"
         />
       </a>
