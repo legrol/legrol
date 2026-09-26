@@ -316,7 +316,7 @@
 ## 📊 My Holy Graph 
 
 <p align="center">
-  <img width="849" height="748" alt="Holy Graph" <img width="788" height="691" alt="Holy Graph Final" src="./images/holy-graph.png"/> 
+  <img width="788" height="691" alt="Holy Graph Final" src="./images/holy-graph.png"/> 
 </p>
 
 ## 🎯 Common Core Project Progress
