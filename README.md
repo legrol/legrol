@@ -21,23 +21,10 @@
 ---
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=legrol&layout=compact&theme=blueberry"
-    alt="Most Used Languages"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=legrol&show_icons=true&theme=panda"
-    alt="GitHub Stats"/>
-</p>
-
-
-<p align="center">
   <img src="./profile/top-langs.svg" alt="Most Used Languages"/>
   &nbsp;&nbsp;&nbsp;
   <img src="./profile/stats.svg" alt="GitHub Stats"/>
 </p>
-
-
 
 ---
 ---
