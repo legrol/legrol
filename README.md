@@ -23,12 +23,6 @@
 ---
 
 <p align="center">
-  <img src="./profile/top-langs.svg" alt="Most Used Languages"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./profile/stats.svg" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img
     src="./profile/top-langs.svg"
     alt="Most Used Languages"
@@ -41,7 +35,6 @@
     height="165"
   />
 </p>
-
 
 ---
 ---
