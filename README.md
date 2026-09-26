@@ -488,6 +488,8 @@
     <th bgcolor="#2A403D" align="center">01.Cibersecurity_Pool</th>
     <th bgcolor="#2A403D" align="center">02.Darkly</th>
     <th bgcolor="#2A403D" align="center">03.ft_malcom</th>
+    <th bgcolor="#2A403D" align="center">04.woody-woodpacker</th>
+    <th bgcolor="#2A403D" align="center">05.snow-crash</th>
   </tr>
   
   <tr>
