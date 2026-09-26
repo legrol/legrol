@@ -515,6 +515,22 @@
         />
       </a>
     </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/04.woody-woodpacker">
+        <img
+          src="https://img.shields.io/badge/woody-woodpacker-%23CFAEFC?style=flat-square&logo=github"
+          alt="yyy #CFAEFC"
+        />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/legrol/05.snow-crash">
+        <img
+          src="https://img.shields.io/badge/snow-crash-%23CFAEFC?style=flat-square&logo=github"
+          alt="yyy #CFAEFC"
+        />
+      </a>
+    </td>    
   </tr>
 </table>
 
