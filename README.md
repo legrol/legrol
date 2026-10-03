@@ -614,6 +614,6 @@
 | **cibersecurity_pool** | --- | ![92/100](https://img.shields.io/static/v1?label=&message=92%2F100&color=brightgreen&style=flat) | ![last commit april 2026](https://img.shields.io/static/v1?label=last%20commit&message=april%202026&color=orange&labelColor=000000&style=flat)   |  *Security*  | --- |
 | **ft_malcom** | --- | --- | --- |  *Security*  | --- |
 | **woody_woodpacker** | --- | ![115/100](https://img.shields.io/static/v1?label=&message=115%2F100&color=brightgreen&style=flat) | ![last commit may 2026](https://img.shields.io/static/v1?label=last%20commit&message=may%202026&color=orange&labelColor=000000&style=flat)   |  *Security*  | --- |
-| **snow_crash** | --- | ![x/100](https://img.shields.io/static/v1?label=&message=x%2F100&color=brightgreen&style=flat) | ![last commit october 2026](https://img.shields.io/static/v1?label=last%20commit&message=october%202026&color=orange&labelColor=000000&style=flat)   |  *Security*  | --- |
+| **snow_crash** | --- | ![x/100](https://img.shields.io/static/v1?label=&message=x%2F100&color=brightgreen&style=flat) | ![last commit october 2026](https://img.shields.io/static/v1?label=last%20commit&message=october%202026&color=orange&labelColor=000000&style=flat)   |  *Security*  | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/05.snow_crash/blob/main/README.md) |
 
 ---
