@@ -45,11 +45,6 @@
   />
 </p>
 
-
-
-[![rdel-olm's 42 stats](https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&coalitionId=piscine)](https://42cv.dev)
-
-
 ---
 ---
 
