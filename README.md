@@ -15,17 +15,21 @@
   </a>
 </p>
 -->
+
 <!--
 [![rdel-olm's 42 stats](https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&coalitionId=274)](https://42cv.dev)
 -->
+
+<!--
+<p align="center">
+  <img src="https://42cv.dev/api/badge/cmveyzcmt00170kp6kfbn7q1v/stats?cursusId=21&amp;coalitionId=274" alt="42 Málaga Stats" width="470" />
+</p>
+-->
+
 <p align="center">
   <a href="https://42cv.dev">
     <img src="https://42cv.dev/api/badge/cnveyzcmt00170kp6kfbn7q1v/stats?cursusId=21&coalitionId=274" alt="rdel-olm's 42 stats" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://42cv.dev/api/badge/cmveyzcmt00170kp6kfbn7q1v/stats?cursusId=21&amp;coalitionId=274" alt="42 Málaga Stats" width="470" />
 </p>
 
 ---
