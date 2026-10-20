@@ -46,7 +46,7 @@
         <img
           src="https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&amp;coalitionId=274"
           alt="42 Málaga Stats"
-          width="340"
+          width="450"
         />
       </a>
     </td>
