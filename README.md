@@ -31,6 +31,22 @@
 </p>
 
 
+<p align="center">
+  <img
+    src="<img width="512" height="512" alt="foto-42-circular" src="https://github.com/user-attachments/assets/c4775fb8-7324-474d-b40b-6b3e3be21b5d" />"
+    alt="rdelolm 42"
+    width="125"
+  />
+  &nbsp;&nbsp;
+  <a href="https://42cv.dev/rdel-olm">
+    <img
+      src="https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&coalitionId=274"
+      alt="rdel-olm's 42 stats"
+      width="340"
+    />
+  </a>
+</p>
+
 ---
 
 ## 📊 My GitHub Stats
