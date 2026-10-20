@@ -6,7 +6,6 @@
 
 ---
 
-<!--
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img
@@ -14,7 +13,6 @@
       alt="rdel-olm's 42 stats" />
   </a>
 </p>
--->
 
 <!--
 [![rdel-olm's 42 stats](https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&coalitionId=274)](https://42cv.dev)
