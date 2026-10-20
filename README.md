@@ -514,9 +514,9 @@
   
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/01.Cibersecurity_Pool">
+      <a href="https://github.com/legrol/01.Cybersecurity_Pool">
         <img
-          src="https://img.shields.io/badge/Cibersecurity_Pool-%23CFAEFC?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/Cybersecurity_Pool-%23CFAEFC?style=flat-square&logo=github"
           alt="xxx #CFAEFC"
         />
       </a>
