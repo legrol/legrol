@@ -30,6 +30,8 @@
   </a>
 </p>
 
+<a href="https://42cv.dev/rdel-olm"><img src="https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&coalitionId=274" alt="rdel-olm's 42 stats" /></a>
+
 
 ---
 
