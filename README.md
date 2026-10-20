@@ -34,7 +34,7 @@
 
 <p align="center">
   <img
-    src="<img width="512" height="512" alt="foto-42-circular" src="https://github.com/user-attachments/assets/c4775fb8-7324-474d-b40b-6b3e3be21b5d" />"
+    src="https://github.com/user-attachments/assets/c4775fb8-7324-474d-b40b-6b3e3be21b5d"
     alt="rdelolm 42"
     width="125"
   />
