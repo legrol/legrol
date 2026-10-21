@@ -33,6 +33,7 @@
 -->
 
 <p align="center">
+  <!--
   <img
     src="https://github.com/user-attachments/assets/c4775fb8-7324-474d-b40b-6b3e3be21b5d"
     alt="Mi foto de 42 Málaga"
@@ -40,6 +41,7 @@
     align="middle"
   />
   &nbsp;&nbsp;
+  -->
   <a href="https://42cv.dev/rdel-olm">
     <img
       src="https://42cv.dev/api/badge/cmveyzcmt00170kp6kfhp7q1v/stats?cursusId=21&amp;coalitionId=274"
