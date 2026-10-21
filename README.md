@@ -618,23 +618,23 @@
   </tr>
   
   <tr>
-    <th bgcolor="#2A403D" align="center">01.xxx</th>
-    <th bgcolor="#2A403D" align="center">02.yyy</th>
+    <th bgcolor="#2A403D" align="center">Work Experience I</th>
+    <th bgcolor="#2A403D" align="center">Work Experience II</th>
   </tr>
   
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/01.xxx">
+      <a href="https://github.com/legrol/01.Work_Experience_I">
         <img
-          src="https://img.shields.io/badge/xxx-%23FC0318?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/01.Work_Experience_I-%23FC0318?style=flat-square&logo=github"
           alt="xxx #FC0318"
         />
       </a>
     </td>   
     <td align="center" valign="middle">
-      <a href="https://github.com/legrol/02.yyy">
+      <a href="https://github.com/legrol/02.Work_Experience_II">
         <img
-          src="https://img.shields.io/badge/yyy-%23FC0318?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/02.Work_Experience_II-%23FC0318?style=flat-square&logo=github"
           alt="yyy #FC0318"
         />
       </a>
