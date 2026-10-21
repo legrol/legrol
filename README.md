@@ -662,71 +662,47 @@
 <h2>🏅 RNCP — Professional Experience</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RNCP-Professional_Certification-00599C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/42-M%C3%A1laga-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Field-Cybersecurity-008B8B?style=for-the-badge">
+<img src="https://img.shields.io/badge/RNCP-Professional_Certification-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/42-M%C3%A1laga-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Field-Cybersecurity-008B8B?style=for-the-badge">
 </p>
 
 <p align="center">
-  Professional experience developed as part of the
-  <b>42 Outer Core curriculum</b>, focusing on
-  cybersecurity operations, professional integration,
-  teamwork and real-world technical responsibilities.
+Professional experience developed as part of the
+<b>42 Outer Core curriculum</b>, focusing on cybersecurity operations,
+professional integration, teamwork and real-world technical responsibilities.
 </p>
 
 <br>
 
 <table align="center">
-  <tr>
-    <th width="280">Professional Experience</th>
-    <th width="300">Skills</th>
-    <th width="110">Grade</th>
-    <th width="100">README</th>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Work Experience I</b>
-      <br>
-      <sub>SOC Level 1 Analyst</sub>
-    </td>
-
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cybersecurity-0078D4">
-      <img src="https://img.shields.io/badge/SOC-00599C">
-      <img src="https://img.shields.io/badge/Blue_Team-008B8B">
-    </td>
-
-    <td align="center">
-      <img src="https://img.shields.io/badge/125%2F100-success?style=flat">
-    </td>
-
-    <td align="center">
-      <a href="https://github.com/legrol/01.Work_Experience_I">
-        <img src="https://img.shields.io/badge/VIEW-FFD700?style=flat">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Work Experience II</b>
-      <br>
-      <sub>Professional Development</sub>
-    </td>
-
-    <td align="center">
-      <img src="https://img.shields.io/badge/Cybersecurity-0078D4">
-      <img src="https://img.shields.io/badge/SOC-00599C">
-      <img src="https://img.shields.io/badge/Incident_Response-008B8B">
-    </td>
-
-    <td align="center">---</td>
-
-    <td align="center">---</td>
-  </tr>
+<tr>
+<th>Professional Experience</th>
+<th>Skills</th>
+<th>Grade</th>
+<th>README</th>
+</tr>
+<tr>
+<td align="center"><b>Work Experience I</b><br><sub>SOC Level 1 Analyst</sub></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-0078D4">
+<img src="https://img.shields.io/badge/SOC-00599C">
+<img src="https://img.shields.io/badge/Blue_Team-008B8B">
+</td>
+<td align="center"><img src="https://img.shields.io/badge/125%2F100-success"></td>
+<td align="center"><a href="https://github.com/legrol/01.Work_Experience_I"><img src="https://img.shields.io/badge/VIEW-FFD700"></a></td>
+</tr>
+<tr>
+<td align="center"><b>Work Experience II</b><br><sub>Professional Development</sub></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-0078D4">
+<img src="https://img.shields.io/badge/SOC-00599C">
+<img src="https://img.shields.io/badge/Incident_Response-008B8B">
+</td>
+<td align="center">---</td>
+<td align="center">---</td>
+</tr>
 </table>
 
 <br>
-
 ---
