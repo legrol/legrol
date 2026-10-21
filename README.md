@@ -653,9 +653,6 @@
 | **ft_malcom** | --- | --- | --- |  *Security*  | --- |
 | **woody_woodpacker** | ![Assembly 36.1%](https://img.shields.io/badge/Assembly-36.1%25-blue?style=flat) ![C 36.1%](https://img.shields.io/badge/C-36.1%25-blue?style=flat)  ![Shell 22.2%](https://img.shields.io/badge/Shell-22.2%25-blue?style=flat)  ![Makefile 5.6%](https://img.shields.io/badge/Makefile-5.6%25-blue?style=flat)  | ![115/100](https://img.shields.io/static/v1?label=&message=115%2F100&color=brightgreen&style=flat) | ![last commit may 2026](https://img.shields.io/static/v1?label=last%20commit&message=may%202026&color=orange&labelColor=000000&style=flat)   |  *Security*  | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/04.woody_woodpacker/blob/main/README.md) |
 | **snow_crash** | ![WebAssembly 50.2%](https://img.shields.io/badge/WebAssembly-50.2%25-blue?style=flat) ![Python 42.4%](https://img.shields.io/badge/Python-42.4%25-blue?style=flat)  ![CMake 7.4%](https://img.shields.io/badge/CMake-7.4%25-blue?style=flat) | ![x/100](https://img.shields.io/static/v1?label=&message=x%2F100&color=brightgreen&style=flat) | ![last commit october 2026](https://img.shields.io/static/v1?label=last%20commit&message=october%202026&color=orange&labelColor=000000&style=flat)   |  *Security*  | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/05.snow_crash/blob/main/README.md) |
-| **Work_Experience_I** | ![Cibersecurity](https://img.shields.io/badge/Cibersecurity-grey?style=flat) ![SOC](https://img.shields.io/badge/SOC-grey?style=flat) ![Blue_Team](https://img.shields.io/badge/Blue_Team-grey?style=flat) | ![125/100](https://img.shields.io/static/v1?label=&message=125%2F100&color=brightgreen&style=flat) | ![last commit oct 2026](https://img.shields.io/static/v1?label=last%20commit&message=oct%202026&color=orange&labelColor=000000&style=flat)  |  *Professional Experience*  | [![README](https://img.shields.io/badge/view-yellow?style=flat)](https://github.com/legrol/01.Work_Experience_I/blob/main/README.md) |
-| **Work_Experience_II** | --- | --- | --- |  *Professional Experience*  | --- |
-
 
 <br>
 
@@ -680,29 +677,46 @@ professional integration, teamwork and real-world technical responsibilities.
 <th>Professional Experience</th>
 <th>Skills</th>
 <th>Grade</th>
+<th>Last Commit</th>
 <th>README</th>
 </tr>
+
 <tr>
 <td align="center"><b>Work Experience I</b><br><sub>SOC Level 1 Analyst</sub></td>
+
 <td align="center">
 <img src="https://img.shields.io/badge/Cybersecurity-0078D4">
 <img src="https://img.shields.io/badge/SOC-00599C">
 <img src="https://img.shields.io/badge/Blue_Team-008B8B">
 </td>
-<td align="center"><img src="https://img.shields.io/badge/125%2F100-success"></td>
-<td align="center"><a href="https://github.com/legrol/01.Work_Experience_I"><img src="https://img.shields.io/badge/VIEW-FFD700"></a></td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/125%2F100-success">
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/static/v1?label=last%20commit&message=oct%202026&color=orange&labelColor=000000&style=flat">
+</td>
+
+<td align="center">
+<a href="https://github.com/legrol/01.Work_Experience_I">
+<img src="https://img.shields.io/badge/VIEW-FFD700">
+</a>
+</td>
 </tr>
+
 <tr>
 <td align="center"><b>Work Experience II</b><br><sub>Professional Development</sub></td>
+
 <td align="center">
 <img src="https://img.shields.io/badge/Cybersecurity-0078D4">
 <img src="https://img.shields.io/badge/SOC-00599C">
 <img src="https://img.shields.io/badge/Incident_Response-008B8B">
 </td>
+
+<td align="center">---</td>
 <td align="center">---</td>
 <td align="center">---</td>
 </tr>
 </table>
-
-<br>
 ---
