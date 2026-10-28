@@ -634,7 +634,7 @@
     <td align="center" valign="middle">
       <a href="https://github.com/legrol/02.Work_Experience_II">
         <img
-          src="https://img.shields.io/badge/Work_Experience_II-%23FC0318?style=flat-square&logo=github"
+          src="https://img.shields.io/badge/Work_Experience_II-%23FC0318?style=flat"
           alt="yyy #FC0318"
         />
       </a>
